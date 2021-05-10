@@ -311,3 +311,185 @@ Open repository: /var/www/ecommerce
 > git show --textconv :routes/web.php
 > git ls-files --stage -- /var/www/ecommerce/routes/web.php
 > git check-ignore -v -z --stdin
+> git ls-files --stage -- /var/www/ecommerce/routes/web.php
+> git cat-file -s 689850e8b19f3283cb9eeff896ab204da7c4f44d
+> git show --textconv :routes/web.php
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :resources/views/layouts/admin.blade.php
+> git ls-files --stage -- /var/www/ecommerce/resources/views/layouts/admin.blade.php
+> git cat-file -s e69de29bb2d1d6434b8b29ae775ad8c2e48c5391
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :resources/views/admin/includes/header.blade.php
+> git ls-files --stage -- /var/www/ecommerce/resources/views/admin/includes/header.blade.php
+> git check-ignore -v -z --stdin
+> git show --textconv :resources/views/admin/includes/footer.blade.php
+> git ls-files --stage -- /var/www/ecommerce/resources/views/admin/includes/footer.blade.php
+> git check-ignore -v -z --stdin
+> git show --textconv :resources/views/admin/includes/sidebar.blade.php
+> git ls-files --stage -- /var/www/ecommerce/resources/views/admin/includes/sidebar.blade.php
+> git check-ignore -v -z --stdin
+> git show --textconv :resources/views/admin/includes/header.blade.php
+> git ls-files --stage -- /var/www/ecommerce/resources/views/admin/includes/header.blade.php
+> git show --textconv :resources/views/admin/includes/sidebar.blade.php
+> git ls-files --stage -- /var/www/ecommerce/resources/views/admin/includes/sidebar.blade.php
+> git show --textconv :resources/views/admin/includes/footer.blade.php
+> git ls-files --stage -- /var/www/ecommerce/resources/views/admin/includes/footer.blade.php
+> git show --textconv :resources/views/layouts/admin.blade.php
+> git ls-files --stage -- /var/www/ecommerce/resources/views/layouts/admin.blade.php
+> git cat-file -s e69de29bb2d1d6434b8b29ae775ad8c2e48c5391
+> git show --textconv :resources/views/admin/includes/footer.blade.php
+> git ls-files --stage -- /var/www/ecommerce/resources/views/admin/includes/footer.blade.php
+> git show --textconv :resources/views/admin/includes/header.blade.php
+> git ls-files --stage -- /var/www/ecommerce/resources/views/admin/includes/header.blade.php
+> git show --textconv :resources/views/admin/includes/sidebar.blade.php
+> git ls-files --stage -- /var/www/ecommerce/resources/views/admin/includes/sidebar.blade.php
+> git show --textconv :resources/views/layouts/admin.blade.php
+> git ls-files --stage -- /var/www/ecommerce/resources/views/layouts/admin.blade.php
+> git cat-file -s e69de29bb2d1d6434b8b29ae775ad8c2e48c5391
+> git show --textconv :resources/views/admin/includes/footer.blade.php
+> git ls-files --stage -- /var/www/ecommerce/resources/views/admin/includes/footer.blade.php
+> git show --textconv :routes/web.php
+> git ls-files --stage -- /var/www/ecommerce/routes/web.php
+> git cat-file -s 689850e8b19f3283cb9eeff896ab204da7c4f44d
+> git show --textconv :routes/admin.php
+> git ls-files --stage -- /var/www/ecommerce/routes/admin.php
+> git check-ignore -v -z --stdin
+> git show --textconv :routes/web.php
+> git ls-files --stage -- /var/www/ecommerce/routes/web.php
+> git cat-file -s 689850e8b19f3283cb9eeff896ab204da7c4f44d
+> git show --textconv :routes/admin.php
+> git ls-files --stage -- /var/www/ecommerce/routes/admin.php
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :app/Providers/RouteServiceProvider.php
+> git ls-files --stage -- /var/www/ecommerce/app/Providers/RouteServiceProvider.php
+> git cat-file -s 540d17b43083574b9ad5185c4982b55f18e31607
+> git show --textconv :routes/admin.php
+> git ls-files --stage -- /var/www/ecommerce/routes/admin.php
+> git show --textconv :resources/views/admin/includes/sidebar.blade.php
+> git ls-files --stage -- /var/www/ecommerce/resources/views/admin/includes/sidebar.blade.php
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /var/www/ecommerce/resources/views/admin/includes/sidebar.blade.php
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :endor/laravel/framework/src/Illuminate/Routing/UrlGenerator.php
+> git ls-files --stage -- /var/www/ecommerce/endor/laravel/framework/src/Illuminate/Routing/UrlGenerator.php
+> git cat-file -s 971ef62ff1dd2de6462be20a399294926759f016
+> git show --textconv :resources/views/admin/includes/sidebar.blade.php
+> git ls-files --stage -- /var/www/ecommerce/resources/views/admin/includes/sidebar.blade.php
+> git show --textconv :routes/admin.php
+> git ls-files --stage -- /var/www/ecommerce/routes/admin.php
+> git show --textconv :resources/views/admin/includes/sidebar.blade.php
+> git ls-files --stage -- /var/www/ecommerce/resources/views/admin/includes/sidebar.blade.php
+> git show --textconv :endor/laravel/framework/src/Illuminate/Routing/UrlGenerator.php
+> git ls-files --stage -- /var/www/ecommerce/endor/laravel/framework/src/Illuminate/Routing/UrlGenerator.php
+> git cat-file -s 971ef62ff1dd2de6462be20a399294926759f016
+> git show --textconv :resources/views/admin/includes/sidebar.blade.php
+> git ls-files --stage -- /var/www/ecommerce/resources/views/admin/includes/sidebar.blade.php
+> git show --textconv :app/Providers/RouteServiceProvider.php
+> git ls-files --stage -- /var/www/ecommerce/app/Providers/RouteServiceProvider.php
+> git cat-file -s 540d17b43083574b9ad5185c4982b55f18e31607
+> git show --textconv :resources/views/admin/includes/sidebar.blade.php
+> git ls-files --stage -- /var/www/ecommerce/resources/views/admin/includes/sidebar.blade.php
+> git show --textconv :resources/views/layouts/admin.blade.php
+> git ls-files --stage -- /var/www/ecommerce/resources/views/layouts/admin.blade.php
+> git cat-file -s e69de29bb2d1d6434b8b29ae775ad8c2e48c5391
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :routes/admin.php
+> git ls-files --stage -- /var/www/ecommerce/routes/admin.php
+> git show --textconv :resources/views/admin/dashboard.blade.php
+> git ls-files --stage -- /var/www/ecommerce/resources/views/admin/dashboard.blade.php
+> git check-ignore -v -z --stdin
+> git show --textconv :assets/admin/css/app.css
+> git ls-files --stage -- /var/www/ecommerce/assets/admin/css/app.css
+> git show --textconv :assets/admin/css/bootstrap-extended.css
+> git ls-files --stage -- /var/www/ecommerce/assets/admin/css/bootstrap-extended.css
+> git show --textconv :assets/admin/css/app.css
+> git ls-files --stage -- /var/www/ecommerce/assets/admin/css/app.css
+> git show --textconv :assets/admin/css/app.min.css
+> git ls-files --stage -- /var/www/ecommerce/assets/admin/css/app.min.css
+> git show --textconv :assets/admin/css/bootstrap-extended.css
+> git ls-files --stage -- /var/www/ecommerce/assets/admin/css/bootstrap-extended.css
+> git show --textconv :assets/admin/css/app.css
+> git ls-files --stage -- /var/www/ecommerce/assets/admin/css/app.css
+> git show --textconv :assets/admin/css/components.css
+> git ls-files --stage -- /var/www/ecommerce/assets/admin/css/components.css
+> git show --textconv :assets/admin/css/app.css
+> git ls-files --stage -- /var/www/ecommerce/assets/admin/css/app.css
+> git show --textconv :assets/admin/css/bootstrap-extended.css
+> git ls-files --stage -- /var/www/ecommerce/assets/admin/css/bootstrap-extended.css
+> git show --textconv :assets/admin/css/app.css
+> git ls-files --stage -- /var/www/ecommerce/assets/admin/css/app.css
+> git show --textconv :assets/admin/css/components.css
+> git ls-files --stage -- /var/www/ecommerce/assets/admin/css/components.css
+> git show --textconv :assets/admin/css/app.css
+> git ls-files --stage -- /var/www/ecommerce/assets/admin/css/app.css
+> git show --textconv :assets/admin/css/colors.css
+> git ls-files --stage -- /var/www/ecommerce/assets/admin/css/colors.css
+> git show --textconv :resources/views/admin/dashboard.blade.php
+> git ls-files --stage -- /var/www/ecommerce/resources/views/admin/dashboard.blade.php
+> git show --textconv :resources/views/layouts/admin.blade.php
+> git ls-files --stage -- /var/www/ecommerce/resources/views/layouts/admin.blade.php
+> git cat-file -s e69de29bb2d1d6434b8b29ae775ad8c2e48c5391
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /var/www/ecommerce/resources/views/layouts/admin.blade.php
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :resources/views/layouts/admin.blade.php
+> git ls-files --stage -- /var/www/ecommerce/resources/views/layouts/admin.blade.php
+> git cat-file -s e69de29bb2d1d6434b8b29ae775ad8c2e48c5391
+> git show --textconv :assets/admin/vendors/js/vendors.min.js
+> git ls-files --stage -- /var/www/ecommerce/assets/admin/vendors/js/vendors.min.js
+> git show --textconv :resources/views/admin/dashboard.blade.php
+> git ls-files --stage -- /var/www/ecommerce/resources/views/admin/dashboard.blade.php
+> git show --textconv :resources/views/layouts/admin.blade.php
+> git ls-files --stage -- /var/www/ecommerce/resources/views/layouts/admin.blade.php
+> git cat-file -s e69de29bb2d1d6434b8b29ae775ad8c2e48c5391
+> git show --textconv :resources/views/admin/dashboard.blade.php
+> git ls-files --stage -- /var/www/ecommerce/resources/views/admin/dashboard.blade.php
+> git check-ignore -v -z --stdin
+> git show --textconv :resources/views/layouts/admin.blade.php
+> git ls-files --stage -- /var/www/ecommerce/resources/views/layouts/admin.blade.php
+> git cat-file -s e69de29bb2d1d6434b8b29ae775ad8c2e48c5391
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :resources/views/admin/includes/sidebar.blade.php
+> git ls-files --stage -- /var/www/ecommerce/resources/views/admin/includes/sidebar.blade.php
+> git show --textconv :resources/views/admin/dashboard.blade.php
+> git ls-files --stage -- /var/www/ecommerce/resources/views/admin/dashboard.blade.php
+> git show --textconv :resources/views/admin/includes/sidebar.blade.php
+> git ls-files --stage -- /var/www/ecommerce/resources/views/admin/includes/sidebar.blade.php
+> git show --textconv :resources/views/layouts/admin.blade.php
+> git ls-files --stage -- /var/www/ecommerce/resources/views/layouts/admin.blade.php
+> git cat-file -s e69de29bb2d1d6434b8b29ae775ad8c2e48c5391
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :resources/views/admin/includes/header.blade.php
+> git ls-files --stage -- /var/www/ecommerce/resources/views/admin/includes/header.blade.php
+> git check-ignore -v -z --stdin
+> git show --textconv :resources/views/front/includes/footer.blade.php
+> git ls-files --stage -- /var/www/ecommerce/resources/views/front/includes/footer.blade.php
+> git cat-file -s 6c22ce864106bbfc857bd4a64f567c3046826e2b

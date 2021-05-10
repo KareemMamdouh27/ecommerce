@@ -36,3 +36,12 @@
 [2021-05-09 22:27:51.255] [exthost] [info] ExtensionService#loadCommonJSModule file:///root/.vscode/extensions/dbaeumer.vscode-eslint-2.1.20/client/out/extension
 [2021-05-09 22:27:51.286] [exthost] [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode {"startup":false,"extensionId":{"value":"esbenp.prettier-vscode","_lower":"esbenp.prettier-vscode"},"activationEvent":"onStartupFinished"}
 [2021-05-09 22:27:51.287] [exthost] [info] ExtensionService#loadCommonJSModule file:///root/.vscode/extensions/esbenp.prettier-vscode-6.3.2/dist/extension
+[2021-05-09 23:53:46.519] [exthost] [info] ExtensionService#_doActivateExtension vscode.css-language-features {"startup":false,"extensionId":{"value":"vscode.css-language-features","_lower":"vscode.css-language-features"},"activationEvent":"onLanguage:css"}
+[2021-05-09 23:53:46.519] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/css-language-features/client/dist/node/cssClientMain
+[2021-05-09 23:55:40.427] [exthost] [error] [vscode.css-language-features] provider FAILED
+[2021-05-09 23:55:40.433] [exthost] [error] Canceled: Canceled
+    at w.makeCancelError (/usr/share/code/resources/app/extensions/css-language-features/client/dist/node/cssClientMain.js:1:62179)
+    at w.handleFailedRequest (/usr/share/code/resources/app/extensions/css-language-features/client/dist/node/cssClientMain.js:1:62030)
+    at /usr/share/code/resources/app/extensions/css-language-features/client/dist/node/cssClientMain.js:1:22372
+[2021-05-10 03:45:03.625] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features {"startup":false,"extensionId":{"value":"vscode.typescript-language-features","_lower":"vscode.typescript-language-features"},"activationEvent":"onLanguage:javascript"}
+[2021-05-10 03:45:03.625] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/typescript-language-features/dist/extension

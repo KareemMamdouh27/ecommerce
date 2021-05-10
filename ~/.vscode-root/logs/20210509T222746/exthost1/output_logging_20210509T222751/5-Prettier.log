@@ -210,3 +210,1627 @@ Require stack:
     at s (/root/.vscode/extensions/esbenp.prettier-vscode-6.3.2/dist/extension.js:1:2695)
     at runMicrotasks (<anonymous>)
     at processTicksAndRejections (internal/process/task_queues.js:93:5)
+["ERROR" - 11:12:10 PM] Error loading node module '/var/www/ecommerce/node_modules/prettier/index.js'
+["ERROR" - 11:12:10 PM] Cannot find module '/var/www/ecommerce/node_modules/prettier/index.js'
+Require stack:
+- /root/.vscode/extensions/esbenp.prettier-vscode-6.3.2/dist/extension.js
+- /usr/share/code/resources/app/out/vs/loader.js
+- /usr/share/code/resources/app/out/bootstrap-amd.js
+- /usr/share/code/resources/app/out/bootstrap-fork.js
+Error: Cannot find module '/var/www/ecommerce/node_modules/prettier/index.js'
+Require stack:
+- /root/.vscode/extensions/esbenp.prettier-vscode-6.3.2/dist/extension.js
+- /usr/share/code/resources/app/out/vs/loader.js
+- /usr/share/code/resources/app/out/bootstrap-amd.js
+- /usr/share/code/resources/app/out/bootstrap-fork.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:934:15)
+    at Module._load (internal/modules/cjs/loader.js:779:27)
+    at Function.f._load (electron/js2c/asar_bundle.js:5:12684)
+    at Function.s._load (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:106:27816)
+    at Function.S._load (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:106:24532)
+    at Function.a._load (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:96:58822)
+    at Module.require (internal/modules/cjs/loader.js:1006:19)
+    at v (/usr/share/code/resources/app/out/vs/loader.js:4:694)
+    at t.ModuleResolver.loadNodeModule (/root/.vscode/extensions/esbenp.prettier-vscode-6.3.2/src/ModuleResolver.ts:339:9)
+    at t.ModuleResolver.<anonymous> (/root/.vscode/extensions/esbenp.prettier-vscode-6.3.2/src/ModuleResolver.ts:225:11)
+    at Generator.next (<anonymous>)
+    at s (/root/.vscode/extensions/esbenp.prettier-vscode-6.3.2/dist/extension.js:1:2695)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+["ERROR" - 11:16:51 PM] Error loading node module '/var/www/ecommerce/node_modules/prettier/index.js'
+["ERROR" - 11:16:51 PM] Cannot find module '/var/www/ecommerce/node_modules/prettier/index.js'
+Require stack:
+- /root/.vscode/extensions/esbenp.prettier-vscode-6.3.2/dist/extension.js
+- /usr/share/code/resources/app/out/vs/loader.js
+- /usr/share/code/resources/app/out/bootstrap-amd.js
+- /usr/share/code/resources/app/out/bootstrap-fork.js
+Error: Cannot find module '/var/www/ecommerce/node_modules/prettier/index.js'
+Require stack:
+- /root/.vscode/extensions/esbenp.prettier-vscode-6.3.2/dist/extension.js
+- /usr/share/code/resources/app/out/vs/loader.js
+- /usr/share/code/resources/app/out/bootstrap-amd.js
+- /usr/share/code/resources/app/out/bootstrap-fork.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:934:15)
+    at Module._load (internal/modules/cjs/loader.js:779:27)
+    at Function.f._load (electron/js2c/asar_bundle.js:5:12684)
+    at Function.s._load (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:106:27816)
+    at Function.S._load (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:106:24532)
+    at Function.a._load (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:96:58822)
+    at Module.require (internal/modules/cjs/loader.js:1006:19)
+    at v (/usr/share/code/resources/app/out/vs/loader.js:4:694)
+    at t.ModuleResolver.loadNodeModule (/root/.vscode/extensions/esbenp.prettier-vscode-6.3.2/src/ModuleResolver.ts:339:9)
+    at t.ModuleResolver.<anonymous> (/root/.vscode/extensions/esbenp.prettier-vscode-6.3.2/src/ModuleResolver.ts:225:11)
+    at Generator.next (<anonymous>)
+    at s (/root/.vscode/extensions/esbenp.prettier-vscode-6.3.2/dist/extension.js:1:2695)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+["ERROR" - 11:17:01 PM] Error loading node module '/var/www/ecommerce/node_modules/prettier/index.js'
+["ERROR" - 11:17:01 PM] Cannot find module '/var/www/ecommerce/node_modules/prettier/index.js'
+Require stack:
+- /root/.vscode/extensions/esbenp.prettier-vscode-6.3.2/dist/extension.js
+- /usr/share/code/resources/app/out/vs/loader.js
+- /usr/share/code/resources/app/out/bootstrap-amd.js
+- /usr/share/code/resources/app/out/bootstrap-fork.js
+Error: Cannot find module '/var/www/ecommerce/node_modules/prettier/index.js'
+Require stack:
+- /root/.vscode/extensions/esbenp.prettier-vscode-6.3.2/dist/extension.js
+- /usr/share/code/resources/app/out/vs/loader.js
+- /usr/share/code/resources/app/out/bootstrap-amd.js
+- /usr/share/code/resources/app/out/bootstrap-fork.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:934:15)
+    at Module._load (internal/modules/cjs/loader.js:779:27)
+    at Function.f._load (electron/js2c/asar_bundle.js:5:12684)
+    at Function.s._load (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:106:27816)
+    at Function.S._load (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:106:24532)
+    at Function.a._load (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:96:58822)
+    at Module.require (internal/modules/cjs/loader.js:1006:19)
+    at v (/usr/share/code/resources/app/out/vs/loader.js:4:694)
+    at t.ModuleResolver.loadNodeModule (/root/.vscode/extensions/esbenp.prettier-vscode-6.3.2/src/ModuleResolver.ts:339:9)
+    at t.ModuleResolver.<anonymous> (/root/.vscode/extensions/esbenp.prettier-vscode-6.3.2/src/ModuleResolver.ts:225:11)
+    at Generator.next (<anonymous>)
+    at s (/root/.vscode/extensions/esbenp.prettier-vscode-6.3.2/dist/extension.js:1:2695)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+["ERROR" - 11:17:12 PM] Error loading node module '/var/www/ecommerce/node_modules/prettier/index.js'
+["ERROR" - 11:17:12 PM] Cannot find module '/var/www/ecommerce/node_modules/prettier/index.js'
+Require stack:
+- /root/.vscode/extensions/esbenp.prettier-vscode-6.3.2/dist/extension.js
+- /usr/share/code/resources/app/out/vs/loader.js
+- /usr/share/code/resources/app/out/bootstrap-amd.js
+- /usr/share/code/resources/app/out/bootstrap-fork.js
+Error: Cannot find module '/var/www/ecommerce/node_modules/prettier/index.js'
+Require stack:
+- /root/.vscode/extensions/esbenp.prettier-vscode-6.3.2/dist/extension.js
+- /usr/share/code/resources/app/out/vs/loader.js
+- /usr/share/code/resources/app/out/bootstrap-amd.js
+- /usr/share/code/resources/app/out/bootstrap-fork.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:934:15)
+    at Module._load (internal/modules/cjs/loader.js:779:27)
+    at Function.f._load (electron/js2c/asar_bundle.js:5:12684)
+    at Function.s._load (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:106:27816)
+    at Function.S._load (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:106:24532)
+    at Function.a._load (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:96:58822)
+    at Module.require (internal/modules/cjs/loader.js:1006:19)
+    at v (/usr/share/code/resources/app/out/vs/loader.js:4:694)
+    at t.ModuleResolver.loadNodeModule (/root/.vscode/extensions/esbenp.prettier-vscode-6.3.2/src/ModuleResolver.ts:339:9)
+    at t.ModuleResolver.<anonymous> (/root/.vscode/extensions/esbenp.prettier-vscode-6.3.2/src/ModuleResolver.ts:225:11)
+    at Generator.next (<anonymous>)
+    at s (/root/.vscode/extensions/esbenp.prettier-vscode-6.3.2/dist/extension.js:1:2695)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+["ERROR" - 11:18:18 PM] Error loading node module '/var/www/ecommerce/node_modules/prettier/index.js'
+["ERROR" - 11:18:18 PM] Cannot find module '/var/www/ecommerce/node_modules/prettier/index.js'
+Require stack:
+- /root/.vscode/extensions/esbenp.prettier-vscode-6.3.2/dist/extension.js
+- /usr/share/code/resources/app/out/vs/loader.js
+- /usr/share/code/resources/app/out/bootstrap-amd.js
+- /usr/share/code/resources/app/out/bootstrap-fork.js
+Error: Cannot find module '/var/www/ecommerce/node_modules/prettier/index.js'
+Require stack:
+- /root/.vscode/extensions/esbenp.prettier-vscode-6.3.2/dist/extension.js
+- /usr/share/code/resources/app/out/vs/loader.js
+- /usr/share/code/resources/app/out/bootstrap-amd.js
+- /usr/share/code/resources/app/out/bootstrap-fork.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:934:15)
+    at Module._load (internal/modules/cjs/loader.js:779:27)
+    at Function.f._load (electron/js2c/asar_bundle.js:5:12684)
+    at Function.s._load (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:106:27816)
+    at Function.S._load (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:106:24532)
+    at Function.a._load (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:96:58822)
+    at Module.require (internal/modules/cjs/loader.js:1006:19)
+    at v (/usr/share/code/resources/app/out/vs/loader.js:4:694)
+    at t.ModuleResolver.loadNodeModule (/root/.vscode/extensions/esbenp.prettier-vscode-6.3.2/src/ModuleResolver.ts:339:9)
+    at t.ModuleResolver.<anonymous> (/root/.vscode/extensions/esbenp.prettier-vscode-6.3.2/src/ModuleResolver.ts:225:11)
+    at Generator.next (<anonymous>)
+    at s (/root/.vscode/extensions/esbenp.prettier-vscode-6.3.2/dist/extension.js:1:2695)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+["ERROR" - 11:18:23 PM] Error loading node module '/var/www/ecommerce/node_modules/prettier/index.js'
+["ERROR" - 11:18:23 PM] Cannot find module '/var/www/ecommerce/node_modules/prettier/index.js'
+Require stack:
+- /root/.vscode/extensions/esbenp.prettier-vscode-6.3.2/dist/extension.js
+- /usr/share/code/resources/app/out/vs/loader.js
+- /usr/share/code/resources/app/out/bootstrap-amd.js
+- /usr/share/code/resources/app/out/bootstrap-fork.js
+Error: Cannot find module '/var/www/ecommerce/node_modules/prettier/index.js'
+Require stack:
+- /root/.vscode/extensions/esbenp.prettier-vscode-6.3.2/dist/extension.js
+- /usr/share/code/resources/app/out/vs/loader.js
+- /usr/share/code/resources/app/out/bootstrap-amd.js
+- /usr/share/code/resources/app/out/bootstrap-fork.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:934:15)
+    at Module._load (internal/modules/cjs/loader.js:779:27)
+    at Function.f._load (electron/js2c/asar_bundle.js:5:12684)
+    at Function.s._load (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:106:27816)
+    at Function.S._load (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:106:24532)
+    at Function.a._load (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:96:58822)
+    at Module.require (internal/modules/cjs/loader.js:1006:19)
+    at v (/usr/share/code/resources/app/out/vs/loader.js:4:694)
+    at t.ModuleResolver.loadNodeModule (/root/.vscode/extensions/esbenp.prettier-vscode-6.3.2/src/ModuleResolver.ts:339:9)
+    at t.ModuleResolver.<anonymous> (/root/.vscode/extensions/esbenp.prettier-vscode-6.3.2/src/ModuleResolver.ts:225:11)
+    at Generator.next (<anonymous>)
+    at s (/root/.vscode/extensions/esbenp.prettier-vscode-6.3.2/dist/extension.js:1:2695)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+["ERROR" - 11:18:43 PM] Error loading node module '/var/www/ecommerce/node_modules/prettier/index.js'
+["ERROR" - 11:18:43 PM] Cannot find module '/var/www/ecommerce/node_modules/prettier/index.js'
+Require stack:
+- /root/.vscode/extensions/esbenp.prettier-vscode-6.3.2/dist/extension.js
+- /usr/share/code/resources/app/out/vs/loader.js
+- /usr/share/code/resources/app/out/bootstrap-amd.js
+- /usr/share/code/resources/app/out/bootstrap-fork.js
+Error: Cannot find module '/var/www/ecommerce/node_modules/prettier/index.js'
+Require stack:
+- /root/.vscode/extensions/esbenp.prettier-vscode-6.3.2/dist/extension.js
+- /usr/share/code/resources/app/out/vs/loader.js
+- /usr/share/code/resources/app/out/bootstrap-amd.js
+- /usr/share/code/resources/app/out/bootstrap-fork.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:934:15)
+    at Module._load (internal/modules/cjs/loader.js:779:27)
+    at Function.f._load (electron/js2c/asar_bundle.js:5:12684)
+    at Function.s._load (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:106:27816)
+    at Function.S._load (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:106:24532)
+    at Function.a._load (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:96:58822)
+    at Module.require (internal/modules/cjs/loader.js:1006:19)
+    at v (/usr/share/code/resources/app/out/vs/loader.js:4:694)
+    at t.ModuleResolver.loadNodeModule (/root/.vscode/extensions/esbenp.prettier-vscode-6.3.2/src/ModuleResolver.ts:339:9)
+    at t.ModuleResolver.<anonymous> (/root/.vscode/extensions/esbenp.prettier-vscode-6.3.2/src/ModuleResolver.ts:225:11)
+    at Generator.next (<anonymous>)
+    at s (/root/.vscode/extensions/esbenp.prettier-vscode-6.3.2/dist/extension.js:1:2695)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+["ERROR" - 11:18:58 PM] Error loading node module '/var/www/ecommerce/node_modules/prettier/index.js'
+["ERROR" - 11:18:58 PM] Cannot find module '/var/www/ecommerce/node_modules/prettier/index.js'
+Require stack:
+- /root/.vscode/extensions/esbenp.prettier-vscode-6.3.2/dist/extension.js
+- /usr/share/code/resources/app/out/vs/loader.js
+- /usr/share/code/resources/app/out/bootstrap-amd.js
+- /usr/share/code/resources/app/out/bootstrap-fork.js
+Error: Cannot find module '/var/www/ecommerce/node_modules/prettier/index.js'
+Require stack:
+- /root/.vscode/extensions/esbenp.prettier-vscode-6.3.2/dist/extension.js
+- /usr/share/code/resources/app/out/vs/loader.js
+- /usr/share/code/resources/app/out/bootstrap-amd.js
+- /usr/share/code/resources/app/out/bootstrap-fork.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:934:15)
+    at Module._load (internal/modules/cjs/loader.js:779:27)
+    at Function.f._load (electron/js2c/asar_bundle.js:5:12684)
+    at Function.s._load (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:106:27816)
+    at Function.S._load (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:106:24532)
+    at Function.a._load (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:96:58822)
+    at Module.require (internal/modules/cjs/loader.js:1006:19)
+    at v (/usr/share/code/resources/app/out/vs/loader.js:4:694)
+    at t.ModuleResolver.loadNodeModule (/root/.vscode/extensions/esbenp.prettier-vscode-6.3.2/src/ModuleResolver.ts:339:9)
+    at t.ModuleResolver.<anonymous> (/root/.vscode/extensions/esbenp.prettier-vscode-6.3.2/src/ModuleResolver.ts:225:11)
+    at Generator.next (<anonymous>)
+    at s (/root/.vscode/extensions/esbenp.prettier-vscode-6.3.2/dist/extension.js:1:2695)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+["ERROR" - 11:19:05 PM] Error loading node module '/var/www/ecommerce/node_modules/prettier/index.js'
+["ERROR" - 11:19:05 PM] Cannot find module '/var/www/ecommerce/node_modules/prettier/index.js'
+Require stack:
+- /root/.vscode/extensions/esbenp.prettier-vscode-6.3.2/dist/extension.js
+- /usr/share/code/resources/app/out/vs/loader.js
+- /usr/share/code/resources/app/out/bootstrap-amd.js
+- /usr/share/code/resources/app/out/bootstrap-fork.js
+Error: Cannot find module '/var/www/ecommerce/node_modules/prettier/index.js'
+Require stack:
+- /root/.vscode/extensions/esbenp.prettier-vscode-6.3.2/dist/extension.js
+- /usr/share/code/resources/app/out/vs/loader.js
+- /usr/share/code/resources/app/out/bootstrap-amd.js
+- /usr/share/code/resources/app/out/bootstrap-fork.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:934:15)
+    at Module._load (internal/modules/cjs/loader.js:779:27)
+    at Function.f._load (electron/js2c/asar_bundle.js:5:12684)
+    at Function.s._load (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:106:27816)
+    at Function.S._load (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:106:24532)
+    at Function.a._load (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:96:58822)
+    at Module.require (internal/modules/cjs/loader.js:1006:19)
+    at v (/usr/share/code/resources/app/out/vs/loader.js:4:694)
+    at t.ModuleResolver.loadNodeModule (/root/.vscode/extensions/esbenp.prettier-vscode-6.3.2/src/ModuleResolver.ts:339:9)
+    at t.ModuleResolver.<anonymous> (/root/.vscode/extensions/esbenp.prettier-vscode-6.3.2/src/ModuleResolver.ts:225:11)
+    at Generator.next (<anonymous>)
+    at s (/root/.vscode/extensions/esbenp.prettier-vscode-6.3.2/dist/extension.js:1:2695)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+["ERROR" - 11:19:06 PM] Error loading node module '/var/www/ecommerce/node_modules/prettier/index.js'
+["ERROR" - 11:19:06 PM] Cannot find module '/var/www/ecommerce/node_modules/prettier/index.js'
+Require stack:
+- /root/.vscode/extensions/esbenp.prettier-vscode-6.3.2/dist/extension.js
+- /usr/share/code/resources/app/out/vs/loader.js
+- /usr/share/code/resources/app/out/bootstrap-amd.js
+- /usr/share/code/resources/app/out/bootstrap-fork.js
+Error: Cannot find module '/var/www/ecommerce/node_modules/prettier/index.js'
+Require stack:
+- /root/.vscode/extensions/esbenp.prettier-vscode-6.3.2/dist/extension.js
+- /usr/share/code/resources/app/out/vs/loader.js
+- /usr/share/code/resources/app/out/bootstrap-amd.js
+- /usr/share/code/resources/app/out/bootstrap-fork.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:934:15)
+    at Module._load (internal/modules/cjs/loader.js:779:27)
+    at Function.f._load (electron/js2c/asar_bundle.js:5:12684)
+    at Function.s._load (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:106:27816)
+    at Function.S._load (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:106:24532)
+    at Function.a._load (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:96:58822)
+    at Module.require (internal/modules/cjs/loader.js:1006:19)
+    at v (/usr/share/code/resources/app/out/vs/loader.js:4:694)
+    at t.ModuleResolver.loadNodeModule (/root/.vscode/extensions/esbenp.prettier-vscode-6.3.2/src/ModuleResolver.ts:339:9)
+    at t.ModuleResolver.<anonymous> (/root/.vscode/extensions/esbenp.prettier-vscode-6.3.2/src/ModuleResolver.ts:225:11)
+    at Generator.next (<anonymous>)
+    at s (/root/.vscode/extensions/esbenp.prettier-vscode-6.3.2/dist/extension.js:1:2695)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+["ERROR" - 11:19:08 PM] Error loading node module '/var/www/ecommerce/node_modules/prettier/index.js'
+["ERROR" - 11:19:08 PM] Cannot find module '/var/www/ecommerce/node_modules/prettier/index.js'
+Require stack:
+- /root/.vscode/extensions/esbenp.prettier-vscode-6.3.2/dist/extension.js
+- /usr/share/code/resources/app/out/vs/loader.js
+- /usr/share/code/resources/app/out/bootstrap-amd.js
+- /usr/share/code/resources/app/out/bootstrap-fork.js
+Error: Cannot find module '/var/www/ecommerce/node_modules/prettier/index.js'
+Require stack:
+- /root/.vscode/extensions/esbenp.prettier-vscode-6.3.2/dist/extension.js
+- /usr/share/code/resources/app/out/vs/loader.js
+- /usr/share/code/resources/app/out/bootstrap-amd.js
+- /usr/share/code/resources/app/out/bootstrap-fork.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:934:15)
+    at Module._load (internal/modules/cjs/loader.js:779:27)
+    at Function.f._load (electron/js2c/asar_bundle.js:5:12684)
+    at Function.s._load (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:106:27816)
+    at Function.S._load (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:106:24532)
+    at Function.a._load (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:96:58822)
+    at Module.require (internal/modules/cjs/loader.js:1006:19)
+    at v (/usr/share/code/resources/app/out/vs/loader.js:4:694)
+    at t.ModuleResolver.loadNodeModule (/root/.vscode/extensions/esbenp.prettier-vscode-6.3.2/src/ModuleResolver.ts:339:9)
+    at t.ModuleResolver.<anonymous> (/root/.vscode/extensions/esbenp.prettier-vscode-6.3.2/src/ModuleResolver.ts:225:11)
+    at Generator.next (<anonymous>)
+    at s (/root/.vscode/extensions/esbenp.prettier-vscode-6.3.2/dist/extension.js:1:2695)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+["ERROR" - 11:19:10 PM] Error loading node module '/var/www/ecommerce/node_modules/prettier/index.js'
+["ERROR" - 11:19:10 PM] Cannot find module '/var/www/ecommerce/node_modules/prettier/index.js'
+Require stack:
+- /root/.vscode/extensions/esbenp.prettier-vscode-6.3.2/dist/extension.js
+- /usr/share/code/resources/app/out/vs/loader.js
+- /usr/share/code/resources/app/out/bootstrap-amd.js
+- /usr/share/code/resources/app/out/bootstrap-fork.js
+Error: Cannot find module '/var/www/ecommerce/node_modules/prettier/index.js'
+Require stack:
+- /root/.vscode/extensions/esbenp.prettier-vscode-6.3.2/dist/extension.js
+- /usr/share/code/resources/app/out/vs/loader.js
+- /usr/share/code/resources/app/out/bootstrap-amd.js
+- /usr/share/code/resources/app/out/bootstrap-fork.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:934:15)
+    at Module._load (internal/modules/cjs/loader.js:779:27)
+    at Function.f._load (electron/js2c/asar_bundle.js:5:12684)
+    at Function.s._load (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:106:27816)
+    at Function.S._load (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:106:24532)
+    at Function.a._load (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:96:58822)
+    at Module.require (internal/modules/cjs/loader.js:1006:19)
+    at v (/usr/share/code/resources/app/out/vs/loader.js:4:694)
+    at t.ModuleResolver.loadNodeModule (/root/.vscode/extensions/esbenp.prettier-vscode-6.3.2/src/ModuleResolver.ts:339:9)
+    at t.ModuleResolver.<anonymous> (/root/.vscode/extensions/esbenp.prettier-vscode-6.3.2/src/ModuleResolver.ts:225:11)
+    at Generator.next (<anonymous>)
+    at s (/root/.vscode/extensions/esbenp.prettier-vscode-6.3.2/dist/extension.js:1:2695)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+["ERROR" - 11:19:41 PM] Error loading node module '/var/www/ecommerce/node_modules/prettier/index.js'
+["ERROR" - 11:19:41 PM] Cannot find module '/var/www/ecommerce/node_modules/prettier/index.js'
+Require stack:
+- /root/.vscode/extensions/esbenp.prettier-vscode-6.3.2/dist/extension.js
+- /usr/share/code/resources/app/out/vs/loader.js
+- /usr/share/code/resources/app/out/bootstrap-amd.js
+- /usr/share/code/resources/app/out/bootstrap-fork.js
+Error: Cannot find module '/var/www/ecommerce/node_modules/prettier/index.js'
+Require stack:
+- /root/.vscode/extensions/esbenp.prettier-vscode-6.3.2/dist/extension.js
+- /usr/share/code/resources/app/out/vs/loader.js
+- /usr/share/code/resources/app/out/bootstrap-amd.js
+- /usr/share/code/resources/app/out/bootstrap-fork.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:934:15)
+    at Module._load (internal/modules/cjs/loader.js:779:27)
+    at Function.f._load (electron/js2c/asar_bundle.js:5:12684)
+    at Function.s._load (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:106:27816)
+    at Function.S._load (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:106:24532)
+    at Function.a._load (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:96:58822)
+    at Module.require (internal/modules/cjs/loader.js:1006:19)
+    at v (/usr/share/code/resources/app/out/vs/loader.js:4:694)
+    at t.ModuleResolver.loadNodeModule (/root/.vscode/extensions/esbenp.prettier-vscode-6.3.2/src/ModuleResolver.ts:339:9)
+    at t.ModuleResolver.<anonymous> (/root/.vscode/extensions/esbenp.prettier-vscode-6.3.2/src/ModuleResolver.ts:225:11)
+    at Generator.next (<anonymous>)
+    at s (/root/.vscode/extensions/esbenp.prettier-vscode-6.3.2/dist/extension.js:1:2695)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+["ERROR" - 11:21:07 PM] Error loading node module '/var/www/ecommerce/node_modules/prettier/index.js'
+["ERROR" - 11:21:07 PM] Cannot find module '/var/www/ecommerce/node_modules/prettier/index.js'
+Require stack:
+- /root/.vscode/extensions/esbenp.prettier-vscode-6.3.2/dist/extension.js
+- /usr/share/code/resources/app/out/vs/loader.js
+- /usr/share/code/resources/app/out/bootstrap-amd.js
+- /usr/share/code/resources/app/out/bootstrap-fork.js
+Error: Cannot find module '/var/www/ecommerce/node_modules/prettier/index.js'
+Require stack:
+- /root/.vscode/extensions/esbenp.prettier-vscode-6.3.2/dist/extension.js
+- /usr/share/code/resources/app/out/vs/loader.js
+- /usr/share/code/resources/app/out/bootstrap-amd.js
+- /usr/share/code/resources/app/out/bootstrap-fork.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:934:15)
+    at Module._load (internal/modules/cjs/loader.js:779:27)
+    at Function.f._load (electron/js2c/asar_bundle.js:5:12684)
+    at Function.s._load (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:106:27816)
+    at Function.S._load (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:106:24532)
+    at Function.a._load (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:96:58822)
+    at Module.require (internal/modules/cjs/loader.js:1006:19)
+    at v (/usr/share/code/resources/app/out/vs/loader.js:4:694)
+    at t.ModuleResolver.loadNodeModule (/root/.vscode/extensions/esbenp.prettier-vscode-6.3.2/src/ModuleResolver.ts:339:9)
+    at t.ModuleResolver.<anonymous> (/root/.vscode/extensions/esbenp.prettier-vscode-6.3.2/src/ModuleResolver.ts:225:11)
+    at Generator.next (<anonymous>)
+    at s (/root/.vscode/extensions/esbenp.prettier-vscode-6.3.2/dist/extension.js:1:2695)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+["ERROR" - 11:21:17 PM] Error loading node module '/var/www/ecommerce/node_modules/prettier/index.js'
+["ERROR" - 11:21:17 PM] Cannot find module '/var/www/ecommerce/node_modules/prettier/index.js'
+Require stack:
+- /root/.vscode/extensions/esbenp.prettier-vscode-6.3.2/dist/extension.js
+- /usr/share/code/resources/app/out/vs/loader.js
+- /usr/share/code/resources/app/out/bootstrap-amd.js
+- /usr/share/code/resources/app/out/bootstrap-fork.js
+Error: Cannot find module '/var/www/ecommerce/node_modules/prettier/index.js'
+Require stack:
+- /root/.vscode/extensions/esbenp.prettier-vscode-6.3.2/dist/extension.js
+- /usr/share/code/resources/app/out/vs/loader.js
+- /usr/share/code/resources/app/out/bootstrap-amd.js
+- /usr/share/code/resources/app/out/bootstrap-fork.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:934:15)
+    at Module._load (internal/modules/cjs/loader.js:779:27)
+    at Function.f._load (electron/js2c/asar_bundle.js:5:12684)
+    at Function.s._load (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:106:27816)
+    at Function.S._load (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:106:24532)
+    at Function.a._load (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:96:58822)
+    at Module.require (internal/modules/cjs/loader.js:1006:19)
+    at v (/usr/share/code/resources/app/out/vs/loader.js:4:694)
+    at t.ModuleResolver.loadNodeModule (/root/.vscode/extensions/esbenp.prettier-vscode-6.3.2/src/ModuleResolver.ts:339:9)
+    at t.ModuleResolver.<anonymous> (/root/.vscode/extensions/esbenp.prettier-vscode-6.3.2/src/ModuleResolver.ts:225:11)
+    at Generator.next (<anonymous>)
+    at s (/root/.vscode/extensions/esbenp.prettier-vscode-6.3.2/dist/extension.js:1:2695)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+["ERROR" - 11:22:12 PM] Error loading node module '/var/www/ecommerce/node_modules/prettier/index.js'
+["ERROR" - 11:22:12 PM] Cannot find module '/var/www/ecommerce/node_modules/prettier/index.js'
+Require stack:
+- /root/.vscode/extensions/esbenp.prettier-vscode-6.3.2/dist/extension.js
+- /usr/share/code/resources/app/out/vs/loader.js
+- /usr/share/code/resources/app/out/bootstrap-amd.js
+- /usr/share/code/resources/app/out/bootstrap-fork.js
+Error: Cannot find module '/var/www/ecommerce/node_modules/prettier/index.js'
+Require stack:
+- /root/.vscode/extensions/esbenp.prettier-vscode-6.3.2/dist/extension.js
+- /usr/share/code/resources/app/out/vs/loader.js
+- /usr/share/code/resources/app/out/bootstrap-amd.js
+- /usr/share/code/resources/app/out/bootstrap-fork.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:934:15)
+    at Module._load (internal/modules/cjs/loader.js:779:27)
+    at Function.f._load (electron/js2c/asar_bundle.js:5:12684)
+    at Function.s._load (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:106:27816)
+    at Function.S._load (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:106:24532)
+    at Function.a._load (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:96:58822)
+    at Module.require (internal/modules/cjs/loader.js:1006:19)
+    at v (/usr/share/code/resources/app/out/vs/loader.js:4:694)
+    at t.ModuleResolver.loadNodeModule (/root/.vscode/extensions/esbenp.prettier-vscode-6.3.2/src/ModuleResolver.ts:339:9)
+    at t.ModuleResolver.<anonymous> (/root/.vscode/extensions/esbenp.prettier-vscode-6.3.2/src/ModuleResolver.ts:225:11)
+    at Generator.next (<anonymous>)
+    at s (/root/.vscode/extensions/esbenp.prettier-vscode-6.3.2/dist/extension.js:1:2695)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+["ERROR" - 11:22:16 PM] Error loading node module '/var/www/ecommerce/node_modules/prettier/index.js'
+["ERROR" - 11:22:16 PM] Cannot find module '/var/www/ecommerce/node_modules/prettier/index.js'
+Require stack:
+- /root/.vscode/extensions/esbenp.prettier-vscode-6.3.2/dist/extension.js
+- /usr/share/code/resources/app/out/vs/loader.js
+- /usr/share/code/resources/app/out/bootstrap-amd.js
+- /usr/share/code/resources/app/out/bootstrap-fork.js
+Error: Cannot find module '/var/www/ecommerce/node_modules/prettier/index.js'
+Require stack:
+- /root/.vscode/extensions/esbenp.prettier-vscode-6.3.2/dist/extension.js
+- /usr/share/code/resources/app/out/vs/loader.js
+- /usr/share/code/resources/app/out/bootstrap-amd.js
+- /usr/share/code/resources/app/out/bootstrap-fork.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:934:15)
+    at Module._load (internal/modules/cjs/loader.js:779:27)
+    at Function.f._load (electron/js2c/asar_bundle.js:5:12684)
+    at Function.s._load (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:106:27816)
+    at Function.S._load (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:106:24532)
+    at Function.a._load (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:96:58822)
+    at Module.require (internal/modules/cjs/loader.js:1006:19)
+    at v (/usr/share/code/resources/app/out/vs/loader.js:4:694)
+    at t.ModuleResolver.loadNodeModule (/root/.vscode/extensions/esbenp.prettier-vscode-6.3.2/src/ModuleResolver.ts:339:9)
+    at t.ModuleResolver.<anonymous> (/root/.vscode/extensions/esbenp.prettier-vscode-6.3.2/src/ModuleResolver.ts:225:11)
+    at Generator.next (<anonymous>)
+    at s (/root/.vscode/extensions/esbenp.prettier-vscode-6.3.2/dist/extension.js:1:2695)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+["ERROR" - 11:22:25 PM] Error loading node module '/var/www/ecommerce/node_modules/prettier/index.js'
+["ERROR" - 11:22:25 PM] Cannot find module '/var/www/ecommerce/node_modules/prettier/index.js'
+Require stack:
+- /root/.vscode/extensions/esbenp.prettier-vscode-6.3.2/dist/extension.js
+- /usr/share/code/resources/app/out/vs/loader.js
+- /usr/share/code/resources/app/out/bootstrap-amd.js
+- /usr/share/code/resources/app/out/bootstrap-fork.js
+Error: Cannot find module '/var/www/ecommerce/node_modules/prettier/index.js'
+Require stack:
+- /root/.vscode/extensions/esbenp.prettier-vscode-6.3.2/dist/extension.js
+- /usr/share/code/resources/app/out/vs/loader.js
+- /usr/share/code/resources/app/out/bootstrap-amd.js
+- /usr/share/code/resources/app/out/bootstrap-fork.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:934:15)
+    at Module._load (internal/modules/cjs/loader.js:779:27)
+    at Function.f._load (electron/js2c/asar_bundle.js:5:12684)
+    at Function.s._load (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:106:27816)
+    at Function.S._load (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:106:24532)
+    at Function.a._load (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:96:58822)
+    at Module.require (internal/modules/cjs/loader.js:1006:19)
+    at v (/usr/share/code/resources/app/out/vs/loader.js:4:694)
+    at t.ModuleResolver.loadNodeModule (/root/.vscode/extensions/esbenp.prettier-vscode-6.3.2/src/ModuleResolver.ts:339:9)
+    at t.ModuleResolver.<anonymous> (/root/.vscode/extensions/esbenp.prettier-vscode-6.3.2/src/ModuleResolver.ts:225:11)
+    at Generator.next (<anonymous>)
+    at s (/root/.vscode/extensions/esbenp.prettier-vscode-6.3.2/dist/extension.js:1:2695)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+["ERROR" - 11:24:20 PM] Error loading node module '/var/www/ecommerce/node_modules/prettier/index.js'
+["ERROR" - 11:24:20 PM] Cannot find module '/var/www/ecommerce/node_modules/prettier/index.js'
+Require stack:
+- /root/.vscode/extensions/esbenp.prettier-vscode-6.3.2/dist/extension.js
+- /usr/share/code/resources/app/out/vs/loader.js
+- /usr/share/code/resources/app/out/bootstrap-amd.js
+- /usr/share/code/resources/app/out/bootstrap-fork.js
+Error: Cannot find module '/var/www/ecommerce/node_modules/prettier/index.js'
+Require stack:
+- /root/.vscode/extensions/esbenp.prettier-vscode-6.3.2/dist/extension.js
+- /usr/share/code/resources/app/out/vs/loader.js
+- /usr/share/code/resources/app/out/bootstrap-amd.js
+- /usr/share/code/resources/app/out/bootstrap-fork.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:934:15)
+    at Module._load (internal/modules/cjs/loader.js:779:27)
+    at Function.f._load (electron/js2c/asar_bundle.js:5:12684)
+    at Function.s._load (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:106:27816)
+    at Function.S._load (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:106:24532)
+    at Function.a._load (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:96:58822)
+    at Module.require (internal/modules/cjs/loader.js:1006:19)
+    at v (/usr/share/code/resources/app/out/vs/loader.js:4:694)
+    at t.ModuleResolver.loadNodeModule (/root/.vscode/extensions/esbenp.prettier-vscode-6.3.2/src/ModuleResolver.ts:339:9)
+    at t.ModuleResolver.<anonymous> (/root/.vscode/extensions/esbenp.prettier-vscode-6.3.2/src/ModuleResolver.ts:225:11)
+    at Generator.next (<anonymous>)
+    at s (/root/.vscode/extensions/esbenp.prettier-vscode-6.3.2/dist/extension.js:1:2695)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+["ERROR" - 11:27:01 PM] Error loading node module '/var/www/ecommerce/node_modules/prettier/index.js'
+["ERROR" - 11:27:01 PM] Cannot find module '/var/www/ecommerce/node_modules/prettier/index.js'
+Require stack:
+- /root/.vscode/extensions/esbenp.prettier-vscode-6.3.2/dist/extension.js
+- /usr/share/code/resources/app/out/vs/loader.js
+- /usr/share/code/resources/app/out/bootstrap-amd.js
+- /usr/share/code/resources/app/out/bootstrap-fork.js
+Error: Cannot find module '/var/www/ecommerce/node_modules/prettier/index.js'
+Require stack:
+- /root/.vscode/extensions/esbenp.prettier-vscode-6.3.2/dist/extension.js
+- /usr/share/code/resources/app/out/vs/loader.js
+- /usr/share/code/resources/app/out/bootstrap-amd.js
+- /usr/share/code/resources/app/out/bootstrap-fork.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:934:15)
+    at Module._load (internal/modules/cjs/loader.js:779:27)
+    at Function.f._load (electron/js2c/asar_bundle.js:5:12684)
+    at Function.s._load (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:106:27816)
+    at Function.S._load (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:106:24532)
+    at Function.a._load (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:96:58822)
+    at Module.require (internal/modules/cjs/loader.js:1006:19)
+    at v (/usr/share/code/resources/app/out/vs/loader.js:4:694)
+    at t.ModuleResolver.loadNodeModule (/root/.vscode/extensions/esbenp.prettier-vscode-6.3.2/src/ModuleResolver.ts:339:9)
+    at t.ModuleResolver.<anonymous> (/root/.vscode/extensions/esbenp.prettier-vscode-6.3.2/src/ModuleResolver.ts:225:11)
+    at Generator.next (<anonymous>)
+    at s (/root/.vscode/extensions/esbenp.prettier-vscode-6.3.2/dist/extension.js:1:2695)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+["ERROR" - 11:33:18 PM] Error loading node module '/var/www/ecommerce/node_modules/prettier/index.js'
+["ERROR" - 11:33:18 PM] Cannot find module '/var/www/ecommerce/node_modules/prettier/index.js'
+Require stack:
+- /root/.vscode/extensions/esbenp.prettier-vscode-6.3.2/dist/extension.js
+- /usr/share/code/resources/app/out/vs/loader.js
+- /usr/share/code/resources/app/out/bootstrap-amd.js
+- /usr/share/code/resources/app/out/bootstrap-fork.js
+Error: Cannot find module '/var/www/ecommerce/node_modules/prettier/index.js'
+Require stack:
+- /root/.vscode/extensions/esbenp.prettier-vscode-6.3.2/dist/extension.js
+- /usr/share/code/resources/app/out/vs/loader.js
+- /usr/share/code/resources/app/out/bootstrap-amd.js
+- /usr/share/code/resources/app/out/bootstrap-fork.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:934:15)
+    at Module._load (internal/modules/cjs/loader.js:779:27)
+    at Function.f._load (electron/js2c/asar_bundle.js:5:12684)
+    at Function.s._load (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:106:27816)
+    at Function.S._load (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:106:24532)
+    at Function.a._load (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:96:58822)
+    at Module.require (internal/modules/cjs/loader.js:1006:19)
+    at v (/usr/share/code/resources/app/out/vs/loader.js:4:694)
+    at t.ModuleResolver.loadNodeModule (/root/.vscode/extensions/esbenp.prettier-vscode-6.3.2/src/ModuleResolver.ts:339:9)
+    at t.ModuleResolver.<anonymous> (/root/.vscode/extensions/esbenp.prettier-vscode-6.3.2/src/ModuleResolver.ts:225:11)
+    at Generator.next (<anonymous>)
+    at s (/root/.vscode/extensions/esbenp.prettier-vscode-6.3.2/dist/extension.js:1:2695)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+["ERROR" - 11:36:48 PM] Error loading node module '/var/www/ecommerce/node_modules/prettier/index.js'
+["ERROR" - 11:36:48 PM] Cannot find module '/var/www/ecommerce/node_modules/prettier/index.js'
+Require stack:
+- /root/.vscode/extensions/esbenp.prettier-vscode-6.3.2/dist/extension.js
+- /usr/share/code/resources/app/out/vs/loader.js
+- /usr/share/code/resources/app/out/bootstrap-amd.js
+- /usr/share/code/resources/app/out/bootstrap-fork.js
+Error: Cannot find module '/var/www/ecommerce/node_modules/prettier/index.js'
+Require stack:
+- /root/.vscode/extensions/esbenp.prettier-vscode-6.3.2/dist/extension.js
+- /usr/share/code/resources/app/out/vs/loader.js
+- /usr/share/code/resources/app/out/bootstrap-amd.js
+- /usr/share/code/resources/app/out/bootstrap-fork.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:934:15)
+    at Module._load (internal/modules/cjs/loader.js:779:27)
+    at Function.f._load (electron/js2c/asar_bundle.js:5:12684)
+    at Function.s._load (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:106:27816)
+    at Function.S._load (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:106:24532)
+    at Function.a._load (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:96:58822)
+    at Module.require (internal/modules/cjs/loader.js:1006:19)
+    at v (/usr/share/code/resources/app/out/vs/loader.js:4:694)
+    at t.ModuleResolver.loadNodeModule (/root/.vscode/extensions/esbenp.prettier-vscode-6.3.2/src/ModuleResolver.ts:339:9)
+    at t.ModuleResolver.<anonymous> (/root/.vscode/extensions/esbenp.prettier-vscode-6.3.2/src/ModuleResolver.ts:225:11)
+    at Generator.next (<anonymous>)
+    at s (/root/.vscode/extensions/esbenp.prettier-vscode-6.3.2/dist/extension.js:1:2695)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+["ERROR" - 11:38:26 PM] Error loading node module '/var/www/ecommerce/node_modules/prettier/index.js'
+["ERROR" - 11:38:26 PM] Cannot find module '/var/www/ecommerce/node_modules/prettier/index.js'
+Require stack:
+- /root/.vscode/extensions/esbenp.prettier-vscode-6.3.2/dist/extension.js
+- /usr/share/code/resources/app/out/vs/loader.js
+- /usr/share/code/resources/app/out/bootstrap-amd.js
+- /usr/share/code/resources/app/out/bootstrap-fork.js
+Error: Cannot find module '/var/www/ecommerce/node_modules/prettier/index.js'
+Require stack:
+- /root/.vscode/extensions/esbenp.prettier-vscode-6.3.2/dist/extension.js
+- /usr/share/code/resources/app/out/vs/loader.js
+- /usr/share/code/resources/app/out/bootstrap-amd.js
+- /usr/share/code/resources/app/out/bootstrap-fork.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:934:15)
+    at Module._load (internal/modules/cjs/loader.js:779:27)
+    at Function.f._load (electron/js2c/asar_bundle.js:5:12684)
+    at Function.s._load (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:106:27816)
+    at Function.S._load (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:106:24532)
+    at Function.a._load (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:96:58822)
+    at Module.require (internal/modules/cjs/loader.js:1006:19)
+    at v (/usr/share/code/resources/app/out/vs/loader.js:4:694)
+    at t.ModuleResolver.loadNodeModule (/root/.vscode/extensions/esbenp.prettier-vscode-6.3.2/src/ModuleResolver.ts:339:9)
+    at t.ModuleResolver.<anonymous> (/root/.vscode/extensions/esbenp.prettier-vscode-6.3.2/src/ModuleResolver.ts:225:11)
+    at Generator.next (<anonymous>)
+    at s (/root/.vscode/extensions/esbenp.prettier-vscode-6.3.2/dist/extension.js:1:2695)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+["ERROR" - 11:38:32 PM] Error loading node module '/var/www/ecommerce/node_modules/prettier/index.js'
+["ERROR" - 11:38:32 PM] Cannot find module '/var/www/ecommerce/node_modules/prettier/index.js'
+Require stack:
+- /root/.vscode/extensions/esbenp.prettier-vscode-6.3.2/dist/extension.js
+- /usr/share/code/resources/app/out/vs/loader.js
+- /usr/share/code/resources/app/out/bootstrap-amd.js
+- /usr/share/code/resources/app/out/bootstrap-fork.js
+Error: Cannot find module '/var/www/ecommerce/node_modules/prettier/index.js'
+Require stack:
+- /root/.vscode/extensions/esbenp.prettier-vscode-6.3.2/dist/extension.js
+- /usr/share/code/resources/app/out/vs/loader.js
+- /usr/share/code/resources/app/out/bootstrap-amd.js
+- /usr/share/code/resources/app/out/bootstrap-fork.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:934:15)
+    at Module._load (internal/modules/cjs/loader.js:779:27)
+    at Function.f._load (electron/js2c/asar_bundle.js:5:12684)
+    at Function.s._load (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:106:27816)
+    at Function.S._load (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:106:24532)
+    at Function.a._load (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:96:58822)
+    at Module.require (internal/modules/cjs/loader.js:1006:19)
+    at v (/usr/share/code/resources/app/out/vs/loader.js:4:694)
+    at t.ModuleResolver.loadNodeModule (/root/.vscode/extensions/esbenp.prettier-vscode-6.3.2/src/ModuleResolver.ts:339:9)
+    at t.ModuleResolver.<anonymous> (/root/.vscode/extensions/esbenp.prettier-vscode-6.3.2/src/ModuleResolver.ts:225:11)
+    at Generator.next (<anonymous>)
+    at s (/root/.vscode/extensions/esbenp.prettier-vscode-6.3.2/dist/extension.js:1:2695)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+["ERROR" - 11:41:10 PM] Error loading node module '/var/www/ecommerce/node_modules/prettier/index.js'
+["ERROR" - 11:41:10 PM] Cannot find module '/var/www/ecommerce/node_modules/prettier/index.js'
+Require stack:
+- /root/.vscode/extensions/esbenp.prettier-vscode-6.3.2/dist/extension.js
+- /usr/share/code/resources/app/out/vs/loader.js
+- /usr/share/code/resources/app/out/bootstrap-amd.js
+- /usr/share/code/resources/app/out/bootstrap-fork.js
+Error: Cannot find module '/var/www/ecommerce/node_modules/prettier/index.js'
+Require stack:
+- /root/.vscode/extensions/esbenp.prettier-vscode-6.3.2/dist/extension.js
+- /usr/share/code/resources/app/out/vs/loader.js
+- /usr/share/code/resources/app/out/bootstrap-amd.js
+- /usr/share/code/resources/app/out/bootstrap-fork.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:934:15)
+    at Module._load (internal/modules/cjs/loader.js:779:27)
+    at Function.f._load (electron/js2c/asar_bundle.js:5:12684)
+    at Function.s._load (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:106:27816)
+    at Function.S._load (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:106:24532)
+    at Function.a._load (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:96:58822)
+    at Module.require (internal/modules/cjs/loader.js:1006:19)
+    at v (/usr/share/code/resources/app/out/vs/loader.js:4:694)
+    at t.ModuleResolver.loadNodeModule (/root/.vscode/extensions/esbenp.prettier-vscode-6.3.2/src/ModuleResolver.ts:339:9)
+    at t.ModuleResolver.<anonymous> (/root/.vscode/extensions/esbenp.prettier-vscode-6.3.2/src/ModuleResolver.ts:225:11)
+    at Generator.next (<anonymous>)
+    at s (/root/.vscode/extensions/esbenp.prettier-vscode-6.3.2/dist/extension.js:1:2695)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+["ERROR" - 11:41:13 PM] Error loading node module '/var/www/ecommerce/node_modules/prettier/index.js'
+["ERROR" - 11:41:13 PM] Cannot find module '/var/www/ecommerce/node_modules/prettier/index.js'
+Require stack:
+- /root/.vscode/extensions/esbenp.prettier-vscode-6.3.2/dist/extension.js
+- /usr/share/code/resources/app/out/vs/loader.js
+- /usr/share/code/resources/app/out/bootstrap-amd.js
+- /usr/share/code/resources/app/out/bootstrap-fork.js
+Error: Cannot find module '/var/www/ecommerce/node_modules/prettier/index.js'
+Require stack:
+- /root/.vscode/extensions/esbenp.prettier-vscode-6.3.2/dist/extension.js
+- /usr/share/code/resources/app/out/vs/loader.js
+- /usr/share/code/resources/app/out/bootstrap-amd.js
+- /usr/share/code/resources/app/out/bootstrap-fork.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:934:15)
+    at Module._load (internal/modules/cjs/loader.js:779:27)
+    at Function.f._load (electron/js2c/asar_bundle.js:5:12684)
+    at Function.s._load (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:106:27816)
+    at Function.S._load (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:106:24532)
+    at Function.a._load (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:96:58822)
+    at Module.require (internal/modules/cjs/loader.js:1006:19)
+    at v (/usr/share/code/resources/app/out/vs/loader.js:4:694)
+    at t.ModuleResolver.loadNodeModule (/root/.vscode/extensions/esbenp.prettier-vscode-6.3.2/src/ModuleResolver.ts:339:9)
+    at t.ModuleResolver.<anonymous> (/root/.vscode/extensions/esbenp.prettier-vscode-6.3.2/src/ModuleResolver.ts:225:11)
+    at Generator.next (<anonymous>)
+    at s (/root/.vscode/extensions/esbenp.prettier-vscode-6.3.2/dist/extension.js:1:2695)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+["ERROR" - 11:41:14 PM] Error loading node module '/var/www/ecommerce/node_modules/prettier/index.js'
+["ERROR" - 11:41:14 PM] Cannot find module '/var/www/ecommerce/node_modules/prettier/index.js'
+Require stack:
+- /root/.vscode/extensions/esbenp.prettier-vscode-6.3.2/dist/extension.js
+- /usr/share/code/resources/app/out/vs/loader.js
+- /usr/share/code/resources/app/out/bootstrap-amd.js
+- /usr/share/code/resources/app/out/bootstrap-fork.js
+Error: Cannot find module '/var/www/ecommerce/node_modules/prettier/index.js'
+Require stack:
+- /root/.vscode/extensions/esbenp.prettier-vscode-6.3.2/dist/extension.js
+- /usr/share/code/resources/app/out/vs/loader.js
+- /usr/share/code/resources/app/out/bootstrap-amd.js
+- /usr/share/code/resources/app/out/bootstrap-fork.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:934:15)
+    at Module._load (internal/modules/cjs/loader.js:779:27)
+    at Function.f._load (electron/js2c/asar_bundle.js:5:12684)
+    at Function.s._load (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:106:27816)
+    at Function.S._load (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:106:24532)
+    at Function.a._load (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:96:58822)
+    at Module.require (internal/modules/cjs/loader.js:1006:19)
+    at v (/usr/share/code/resources/app/out/vs/loader.js:4:694)
+    at t.ModuleResolver.loadNodeModule (/root/.vscode/extensions/esbenp.prettier-vscode-6.3.2/src/ModuleResolver.ts:339:9)
+    at t.ModuleResolver.<anonymous> (/root/.vscode/extensions/esbenp.prettier-vscode-6.3.2/src/ModuleResolver.ts:225:11)
+    at Generator.next (<anonymous>)
+    at s (/root/.vscode/extensions/esbenp.prettier-vscode-6.3.2/dist/extension.js:1:2695)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+["ERROR" - 11:41:19 PM] Error loading node module '/var/www/ecommerce/node_modules/prettier/index.js'
+["ERROR" - 11:41:19 PM] Cannot find module '/var/www/ecommerce/node_modules/prettier/index.js'
+Require stack:
+- /root/.vscode/extensions/esbenp.prettier-vscode-6.3.2/dist/extension.js
+- /usr/share/code/resources/app/out/vs/loader.js
+- /usr/share/code/resources/app/out/bootstrap-amd.js
+- /usr/share/code/resources/app/out/bootstrap-fork.js
+Error: Cannot find module '/var/www/ecommerce/node_modules/prettier/index.js'
+Require stack:
+- /root/.vscode/extensions/esbenp.prettier-vscode-6.3.2/dist/extension.js
+- /usr/share/code/resources/app/out/vs/loader.js
+- /usr/share/code/resources/app/out/bootstrap-amd.js
+- /usr/share/code/resources/app/out/bootstrap-fork.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:934:15)
+    at Module._load (internal/modules/cjs/loader.js:779:27)
+    at Function.f._load (electron/js2c/asar_bundle.js:5:12684)
+    at Function.s._load (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:106:27816)
+    at Function.S._load (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:106:24532)
+    at Function.a._load (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:96:58822)
+    at Module.require (internal/modules/cjs/loader.js:1006:19)
+    at v (/usr/share/code/resources/app/out/vs/loader.js:4:694)
+    at t.ModuleResolver.loadNodeModule (/root/.vscode/extensions/esbenp.prettier-vscode-6.3.2/src/ModuleResolver.ts:339:9)
+    at t.ModuleResolver.<anonymous> (/root/.vscode/extensions/esbenp.prettier-vscode-6.3.2/src/ModuleResolver.ts:225:11)
+    at Generator.next (<anonymous>)
+    at s (/root/.vscode/extensions/esbenp.prettier-vscode-6.3.2/dist/extension.js:1:2695)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+["ERROR" - 11:41:19 PM] Error loading node module '/var/www/ecommerce/node_modules/prettier/index.js'
+["ERROR" - 11:41:19 PM] Cannot find module '/var/www/ecommerce/node_modules/prettier/index.js'
+Require stack:
+- /root/.vscode/extensions/esbenp.prettier-vscode-6.3.2/dist/extension.js
+- /usr/share/code/resources/app/out/vs/loader.js
+- /usr/share/code/resources/app/out/bootstrap-amd.js
+- /usr/share/code/resources/app/out/bootstrap-fork.js
+Error: Cannot find module '/var/www/ecommerce/node_modules/prettier/index.js'
+Require stack:
+- /root/.vscode/extensions/esbenp.prettier-vscode-6.3.2/dist/extension.js
+- /usr/share/code/resources/app/out/vs/loader.js
+- /usr/share/code/resources/app/out/bootstrap-amd.js
+- /usr/share/code/resources/app/out/bootstrap-fork.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:934:15)
+    at Module._load (internal/modules/cjs/loader.js:779:27)
+    at Function.f._load (electron/js2c/asar_bundle.js:5:12684)
+    at Function.s._load (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:106:27816)
+    at Function.S._load (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:106:24532)
+    at Function.a._load (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:96:58822)
+    at Module.require (internal/modules/cjs/loader.js:1006:19)
+    at v (/usr/share/code/resources/app/out/vs/loader.js:4:694)
+    at t.ModuleResolver.loadNodeModule (/root/.vscode/extensions/esbenp.prettier-vscode-6.3.2/src/ModuleResolver.ts:339:9)
+    at t.ModuleResolver.<anonymous> (/root/.vscode/extensions/esbenp.prettier-vscode-6.3.2/src/ModuleResolver.ts:225:11)
+    at Generator.next (<anonymous>)
+    at s (/root/.vscode/extensions/esbenp.prettier-vscode-6.3.2/dist/extension.js:1:2695)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+["ERROR" - 11:47:22 PM] Error loading node module '/var/www/ecommerce/node_modules/prettier/index.js'
+["ERROR" - 11:47:22 PM] Cannot find module '/var/www/ecommerce/node_modules/prettier/index.js'
+Require stack:
+- /root/.vscode/extensions/esbenp.prettier-vscode-6.3.2/dist/extension.js
+- /usr/share/code/resources/app/out/vs/loader.js
+- /usr/share/code/resources/app/out/bootstrap-amd.js
+- /usr/share/code/resources/app/out/bootstrap-fork.js
+Error: Cannot find module '/var/www/ecommerce/node_modules/prettier/index.js'
+Require stack:
+- /root/.vscode/extensions/esbenp.prettier-vscode-6.3.2/dist/extension.js
+- /usr/share/code/resources/app/out/vs/loader.js
+- /usr/share/code/resources/app/out/bootstrap-amd.js
+- /usr/share/code/resources/app/out/bootstrap-fork.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:934:15)
+    at Module._load (internal/modules/cjs/loader.js:779:27)
+    at Function.f._load (electron/js2c/asar_bundle.js:5:12684)
+    at Function.s._load (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:106:27816)
+    at Function.S._load (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:106:24532)
+    at Function.a._load (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:96:58822)
+    at Module.require (internal/modules/cjs/loader.js:1006:19)
+    at v (/usr/share/code/resources/app/out/vs/loader.js:4:694)
+    at t.ModuleResolver.loadNodeModule (/root/.vscode/extensions/esbenp.prettier-vscode-6.3.2/src/ModuleResolver.ts:339:9)
+    at t.ModuleResolver.<anonymous> (/root/.vscode/extensions/esbenp.prettier-vscode-6.3.2/src/ModuleResolver.ts:225:11)
+    at Generator.next (<anonymous>)
+    at s (/root/.vscode/extensions/esbenp.prettier-vscode-6.3.2/dist/extension.js:1:2695)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+["ERROR" - 11:48:08 PM] Error loading node module '/var/www/ecommerce/node_modules/prettier/index.js'
+["ERROR" - 11:48:08 PM] Cannot find module '/var/www/ecommerce/node_modules/prettier/index.js'
+Require stack:
+- /root/.vscode/extensions/esbenp.prettier-vscode-6.3.2/dist/extension.js
+- /usr/share/code/resources/app/out/vs/loader.js
+- /usr/share/code/resources/app/out/bootstrap-amd.js
+- /usr/share/code/resources/app/out/bootstrap-fork.js
+Error: Cannot find module '/var/www/ecommerce/node_modules/prettier/index.js'
+Require stack:
+- /root/.vscode/extensions/esbenp.prettier-vscode-6.3.2/dist/extension.js
+- /usr/share/code/resources/app/out/vs/loader.js
+- /usr/share/code/resources/app/out/bootstrap-amd.js
+- /usr/share/code/resources/app/out/bootstrap-fork.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:934:15)
+    at Module._load (internal/modules/cjs/loader.js:779:27)
+    at Function.f._load (electron/js2c/asar_bundle.js:5:12684)
+    at Function.s._load (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:106:27816)
+    at Function.S._load (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:106:24532)
+    at Function.a._load (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:96:58822)
+    at Module.require (internal/modules/cjs/loader.js:1006:19)
+    at v (/usr/share/code/resources/app/out/vs/loader.js:4:694)
+    at t.ModuleResolver.loadNodeModule (/root/.vscode/extensions/esbenp.prettier-vscode-6.3.2/src/ModuleResolver.ts:339:9)
+    at t.ModuleResolver.<anonymous> (/root/.vscode/extensions/esbenp.prettier-vscode-6.3.2/src/ModuleResolver.ts:225:11)
+    at Generator.next (<anonymous>)
+    at s (/root/.vscode/extensions/esbenp.prettier-vscode-6.3.2/dist/extension.js:1:2695)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+["ERROR" - 11:53:46 PM] Error loading node module '/var/www/ecommerce/node_modules/prettier/index.js'
+["ERROR" - 11:53:46 PM] Cannot find module '/var/www/ecommerce/node_modules/prettier/index.js'
+Require stack:
+- /root/.vscode/extensions/esbenp.prettier-vscode-6.3.2/dist/extension.js
+- /usr/share/code/resources/app/out/vs/loader.js
+- /usr/share/code/resources/app/out/bootstrap-amd.js
+- /usr/share/code/resources/app/out/bootstrap-fork.js
+Error: Cannot find module '/var/www/ecommerce/node_modules/prettier/index.js'
+Require stack:
+- /root/.vscode/extensions/esbenp.prettier-vscode-6.3.2/dist/extension.js
+- /usr/share/code/resources/app/out/vs/loader.js
+- /usr/share/code/resources/app/out/bootstrap-amd.js
+- /usr/share/code/resources/app/out/bootstrap-fork.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:934:15)
+    at Module._load (internal/modules/cjs/loader.js:779:27)
+    at Function.f._load (electron/js2c/asar_bundle.js:5:12684)
+    at Function.s._load (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:106:27816)
+    at Function.S._load (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:106:24532)
+    at Function.a._load (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:96:58822)
+    at Module.require (internal/modules/cjs/loader.js:1006:19)
+    at v (/usr/share/code/resources/app/out/vs/loader.js:4:694)
+    at t.ModuleResolver.loadNodeModule (/root/.vscode/extensions/esbenp.prettier-vscode-6.3.2/src/ModuleResolver.ts:339:9)
+    at t.ModuleResolver.<anonymous> (/root/.vscode/extensions/esbenp.prettier-vscode-6.3.2/src/ModuleResolver.ts:225:11)
+    at Generator.next (<anonymous>)
+    at s (/root/.vscode/extensions/esbenp.prettier-vscode-6.3.2/dist/extension.js:1:2695)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+["ERROR" - 11:53:51 PM] Error loading node module '/var/www/ecommerce/node_modules/prettier/index.js'
+["ERROR" - 11:53:51 PM] Cannot find module '/var/www/ecommerce/node_modules/prettier/index.js'
+Require stack:
+- /root/.vscode/extensions/esbenp.prettier-vscode-6.3.2/dist/extension.js
+- /usr/share/code/resources/app/out/vs/loader.js
+- /usr/share/code/resources/app/out/bootstrap-amd.js
+- /usr/share/code/resources/app/out/bootstrap-fork.js
+Error: Cannot find module '/var/www/ecommerce/node_modules/prettier/index.js'
+Require stack:
+- /root/.vscode/extensions/esbenp.prettier-vscode-6.3.2/dist/extension.js
+- /usr/share/code/resources/app/out/vs/loader.js
+- /usr/share/code/resources/app/out/bootstrap-amd.js
+- /usr/share/code/resources/app/out/bootstrap-fork.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:934:15)
+    at Module._load (internal/modules/cjs/loader.js:779:27)
+    at Function.f._load (electron/js2c/asar_bundle.js:5:12684)
+    at Function.s._load (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:106:27816)
+    at Function.S._load (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:106:24532)
+    at Function.a._load (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:96:58822)
+    at Module.require (internal/modules/cjs/loader.js:1006:19)
+    at v (/usr/share/code/resources/app/out/vs/loader.js:4:694)
+    at t.ModuleResolver.loadNodeModule (/root/.vscode/extensions/esbenp.prettier-vscode-6.3.2/src/ModuleResolver.ts:339:9)
+    at t.ModuleResolver.<anonymous> (/root/.vscode/extensions/esbenp.prettier-vscode-6.3.2/src/ModuleResolver.ts:225:11)
+    at Generator.next (<anonymous>)
+    at s (/root/.vscode/extensions/esbenp.prettier-vscode-6.3.2/dist/extension.js:1:2695)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+["ERROR" - 11:53:58 PM] Error loading node module '/var/www/ecommerce/node_modules/prettier/index.js'
+["ERROR" - 11:53:58 PM] Cannot find module '/var/www/ecommerce/node_modules/prettier/index.js'
+Require stack:
+- /root/.vscode/extensions/esbenp.prettier-vscode-6.3.2/dist/extension.js
+- /usr/share/code/resources/app/out/vs/loader.js
+- /usr/share/code/resources/app/out/bootstrap-amd.js
+- /usr/share/code/resources/app/out/bootstrap-fork.js
+Error: Cannot find module '/var/www/ecommerce/node_modules/prettier/index.js'
+Require stack:
+- /root/.vscode/extensions/esbenp.prettier-vscode-6.3.2/dist/extension.js
+- /usr/share/code/resources/app/out/vs/loader.js
+- /usr/share/code/resources/app/out/bootstrap-amd.js
+- /usr/share/code/resources/app/out/bootstrap-fork.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:934:15)
+    at Module._load (internal/modules/cjs/loader.js:779:27)
+    at Function.f._load (electron/js2c/asar_bundle.js:5:12684)
+    at Function.s._load (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:106:27816)
+    at Function.S._load (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:106:24532)
+    at Function.a._load (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:96:58822)
+    at Module.require (internal/modules/cjs/loader.js:1006:19)
+    at v (/usr/share/code/resources/app/out/vs/loader.js:4:694)
+    at t.ModuleResolver.loadNodeModule (/root/.vscode/extensions/esbenp.prettier-vscode-6.3.2/src/ModuleResolver.ts:339:9)
+    at t.ModuleResolver.<anonymous> (/root/.vscode/extensions/esbenp.prettier-vscode-6.3.2/src/ModuleResolver.ts:225:11)
+    at Generator.next (<anonymous>)
+    at s (/root/.vscode/extensions/esbenp.prettier-vscode-6.3.2/dist/extension.js:1:2695)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+["ERROR" - 11:55:37 PM] Error loading node module '/var/www/ecommerce/node_modules/prettier/index.js'
+["ERROR" - 11:55:37 PM] Cannot find module '/var/www/ecommerce/node_modules/prettier/index.js'
+Require stack:
+- /root/.vscode/extensions/esbenp.prettier-vscode-6.3.2/dist/extension.js
+- /usr/share/code/resources/app/out/vs/loader.js
+- /usr/share/code/resources/app/out/bootstrap-amd.js
+- /usr/share/code/resources/app/out/bootstrap-fork.js
+Error: Cannot find module '/var/www/ecommerce/node_modules/prettier/index.js'
+Require stack:
+- /root/.vscode/extensions/esbenp.prettier-vscode-6.3.2/dist/extension.js
+- /usr/share/code/resources/app/out/vs/loader.js
+- /usr/share/code/resources/app/out/bootstrap-amd.js
+- /usr/share/code/resources/app/out/bootstrap-fork.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:934:15)
+    at Module._load (internal/modules/cjs/loader.js:779:27)
+    at Function.f._load (electron/js2c/asar_bundle.js:5:12684)
+    at Function.s._load (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:106:27816)
+    at Function.S._load (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:106:24532)
+    at Function.a._load (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:96:58822)
+    at Module.require (internal/modules/cjs/loader.js:1006:19)
+    at v (/usr/share/code/resources/app/out/vs/loader.js:4:694)
+    at t.ModuleResolver.loadNodeModule (/root/.vscode/extensions/esbenp.prettier-vscode-6.3.2/src/ModuleResolver.ts:339:9)
+    at t.ModuleResolver.<anonymous> (/root/.vscode/extensions/esbenp.prettier-vscode-6.3.2/src/ModuleResolver.ts:225:11)
+    at Generator.next (<anonymous>)
+    at s (/root/.vscode/extensions/esbenp.prettier-vscode-6.3.2/dist/extension.js:1:2695)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+["ERROR" - 11:55:44 PM] Error loading node module '/var/www/ecommerce/node_modules/prettier/index.js'
+["ERROR" - 11:55:44 PM] Cannot find module '/var/www/ecommerce/node_modules/prettier/index.js'
+Require stack:
+- /root/.vscode/extensions/esbenp.prettier-vscode-6.3.2/dist/extension.js
+- /usr/share/code/resources/app/out/vs/loader.js
+- /usr/share/code/resources/app/out/bootstrap-amd.js
+- /usr/share/code/resources/app/out/bootstrap-fork.js
+Error: Cannot find module '/var/www/ecommerce/node_modules/prettier/index.js'
+Require stack:
+- /root/.vscode/extensions/esbenp.prettier-vscode-6.3.2/dist/extension.js
+- /usr/share/code/resources/app/out/vs/loader.js
+- /usr/share/code/resources/app/out/bootstrap-amd.js
+- /usr/share/code/resources/app/out/bootstrap-fork.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:934:15)
+    at Module._load (internal/modules/cjs/loader.js:779:27)
+    at Function.f._load (electron/js2c/asar_bundle.js:5:12684)
+    at Function.s._load (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:106:27816)
+    at Function.S._load (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:106:24532)
+    at Function.a._load (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:96:58822)
+    at Module.require (internal/modules/cjs/loader.js:1006:19)
+    at v (/usr/share/code/resources/app/out/vs/loader.js:4:694)
+    at t.ModuleResolver.loadNodeModule (/root/.vscode/extensions/esbenp.prettier-vscode-6.3.2/src/ModuleResolver.ts:339:9)
+    at t.ModuleResolver.<anonymous> (/root/.vscode/extensions/esbenp.prettier-vscode-6.3.2/src/ModuleResolver.ts:225:11)
+    at Generator.next (<anonymous>)
+    at s (/root/.vscode/extensions/esbenp.prettier-vscode-6.3.2/dist/extension.js:1:2695)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+["ERROR" - 11:56:36 PM] Error loading node module '/var/www/ecommerce/node_modules/prettier/index.js'
+["ERROR" - 11:56:36 PM] Cannot find module '/var/www/ecommerce/node_modules/prettier/index.js'
+Require stack:
+- /root/.vscode/extensions/esbenp.prettier-vscode-6.3.2/dist/extension.js
+- /usr/share/code/resources/app/out/vs/loader.js
+- /usr/share/code/resources/app/out/bootstrap-amd.js
+- /usr/share/code/resources/app/out/bootstrap-fork.js
+Error: Cannot find module '/var/www/ecommerce/node_modules/prettier/index.js'
+Require stack:
+- /root/.vscode/extensions/esbenp.prettier-vscode-6.3.2/dist/extension.js
+- /usr/share/code/resources/app/out/vs/loader.js
+- /usr/share/code/resources/app/out/bootstrap-amd.js
+- /usr/share/code/resources/app/out/bootstrap-fork.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:934:15)
+    at Module._load (internal/modules/cjs/loader.js:779:27)
+    at Function.f._load (electron/js2c/asar_bundle.js:5:12684)
+    at Function.s._load (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:106:27816)
+    at Function.S._load (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:106:24532)
+    at Function.a._load (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:96:58822)
+    at Module.require (internal/modules/cjs/loader.js:1006:19)
+    at v (/usr/share/code/resources/app/out/vs/loader.js:4:694)
+    at t.ModuleResolver.loadNodeModule (/root/.vscode/extensions/esbenp.prettier-vscode-6.3.2/src/ModuleResolver.ts:339:9)
+    at t.ModuleResolver.<anonymous> (/root/.vscode/extensions/esbenp.prettier-vscode-6.3.2/src/ModuleResolver.ts:225:11)
+    at Generator.next (<anonymous>)
+    at s (/root/.vscode/extensions/esbenp.prettier-vscode-6.3.2/dist/extension.js:1:2695)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+["ERROR" - 11:56:41 PM] Error loading node module '/var/www/ecommerce/node_modules/prettier/index.js'
+["ERROR" - 11:56:41 PM] Cannot find module '/var/www/ecommerce/node_modules/prettier/index.js'
+Require stack:
+- /root/.vscode/extensions/esbenp.prettier-vscode-6.3.2/dist/extension.js
+- /usr/share/code/resources/app/out/vs/loader.js
+- /usr/share/code/resources/app/out/bootstrap-amd.js
+- /usr/share/code/resources/app/out/bootstrap-fork.js
+Error: Cannot find module '/var/www/ecommerce/node_modules/prettier/index.js'
+Require stack:
+- /root/.vscode/extensions/esbenp.prettier-vscode-6.3.2/dist/extension.js
+- /usr/share/code/resources/app/out/vs/loader.js
+- /usr/share/code/resources/app/out/bootstrap-amd.js
+- /usr/share/code/resources/app/out/bootstrap-fork.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:934:15)
+    at Module._load (internal/modules/cjs/loader.js:779:27)
+    at Function.f._load (electron/js2c/asar_bundle.js:5:12684)
+    at Function.s._load (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:106:27816)
+    at Function.S._load (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:106:24532)
+    at Function.a._load (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:96:58822)
+    at Module.require (internal/modules/cjs/loader.js:1006:19)
+    at v (/usr/share/code/resources/app/out/vs/loader.js:4:694)
+    at t.ModuleResolver.loadNodeModule (/root/.vscode/extensions/esbenp.prettier-vscode-6.3.2/src/ModuleResolver.ts:339:9)
+    at t.ModuleResolver.<anonymous> (/root/.vscode/extensions/esbenp.prettier-vscode-6.3.2/src/ModuleResolver.ts:225:11)
+    at Generator.next (<anonymous>)
+    at s (/root/.vscode/extensions/esbenp.prettier-vscode-6.3.2/dist/extension.js:1:2695)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+["ERROR" - 11:57:47 PM] Error loading node module '/var/www/ecommerce/node_modules/prettier/index.js'
+["ERROR" - 11:57:47 PM] Cannot find module '/var/www/ecommerce/node_modules/prettier/index.js'
+Require stack:
+- /root/.vscode/extensions/esbenp.prettier-vscode-6.3.2/dist/extension.js
+- /usr/share/code/resources/app/out/vs/loader.js
+- /usr/share/code/resources/app/out/bootstrap-amd.js
+- /usr/share/code/resources/app/out/bootstrap-fork.js
+Error: Cannot find module '/var/www/ecommerce/node_modules/prettier/index.js'
+Require stack:
+- /root/.vscode/extensions/esbenp.prettier-vscode-6.3.2/dist/extension.js
+- /usr/share/code/resources/app/out/vs/loader.js
+- /usr/share/code/resources/app/out/bootstrap-amd.js
+- /usr/share/code/resources/app/out/bootstrap-fork.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:934:15)
+    at Module._load (internal/modules/cjs/loader.js:779:27)
+    at Function.f._load (electron/js2c/asar_bundle.js:5:12684)
+    at Function.s._load (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:106:27816)
+    at Function.S._load (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:106:24532)
+    at Function.a._load (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:96:58822)
+    at Module.require (internal/modules/cjs/loader.js:1006:19)
+    at v (/usr/share/code/resources/app/out/vs/loader.js:4:694)
+    at t.ModuleResolver.loadNodeModule (/root/.vscode/extensions/esbenp.prettier-vscode-6.3.2/src/ModuleResolver.ts:339:9)
+    at t.ModuleResolver.<anonymous> (/root/.vscode/extensions/esbenp.prettier-vscode-6.3.2/src/ModuleResolver.ts:225:11)
+    at Generator.next (<anonymous>)
+    at s (/root/.vscode/extensions/esbenp.prettier-vscode-6.3.2/dist/extension.js:1:2695)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+["ERROR" - 11:57:52 PM] Error loading node module '/var/www/ecommerce/node_modules/prettier/index.js'
+["ERROR" - 11:57:52 PM] Cannot find module '/var/www/ecommerce/node_modules/prettier/index.js'
+Require stack:
+- /root/.vscode/extensions/esbenp.prettier-vscode-6.3.2/dist/extension.js
+- /usr/share/code/resources/app/out/vs/loader.js
+- /usr/share/code/resources/app/out/bootstrap-amd.js
+- /usr/share/code/resources/app/out/bootstrap-fork.js
+Error: Cannot find module '/var/www/ecommerce/node_modules/prettier/index.js'
+Require stack:
+- /root/.vscode/extensions/esbenp.prettier-vscode-6.3.2/dist/extension.js
+- /usr/share/code/resources/app/out/vs/loader.js
+- /usr/share/code/resources/app/out/bootstrap-amd.js
+- /usr/share/code/resources/app/out/bootstrap-fork.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:934:15)
+    at Module._load (internal/modules/cjs/loader.js:779:27)
+    at Function.f._load (electron/js2c/asar_bundle.js:5:12684)
+    at Function.s._load (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:106:27816)
+    at Function.S._load (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:106:24532)
+    at Function.a._load (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:96:58822)
+    at Module.require (internal/modules/cjs/loader.js:1006:19)
+    at v (/usr/share/code/resources/app/out/vs/loader.js:4:694)
+    at t.ModuleResolver.loadNodeModule (/root/.vscode/extensions/esbenp.prettier-vscode-6.3.2/src/ModuleResolver.ts:339:9)
+    at t.ModuleResolver.<anonymous> (/root/.vscode/extensions/esbenp.prettier-vscode-6.3.2/src/ModuleResolver.ts:225:11)
+    at Generator.next (<anonymous>)
+    at s (/root/.vscode/extensions/esbenp.prettier-vscode-6.3.2/dist/extension.js:1:2695)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+["ERROR" - 11:57:55 PM] Error loading node module '/var/www/ecommerce/node_modules/prettier/index.js'
+["ERROR" - 11:57:55 PM] Cannot find module '/var/www/ecommerce/node_modules/prettier/index.js'
+Require stack:
+- /root/.vscode/extensions/esbenp.prettier-vscode-6.3.2/dist/extension.js
+- /usr/share/code/resources/app/out/vs/loader.js
+- /usr/share/code/resources/app/out/bootstrap-amd.js
+- /usr/share/code/resources/app/out/bootstrap-fork.js
+Error: Cannot find module '/var/www/ecommerce/node_modules/prettier/index.js'
+Require stack:
+- /root/.vscode/extensions/esbenp.prettier-vscode-6.3.2/dist/extension.js
+- /usr/share/code/resources/app/out/vs/loader.js
+- /usr/share/code/resources/app/out/bootstrap-amd.js
+- /usr/share/code/resources/app/out/bootstrap-fork.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:934:15)
+    at Module._load (internal/modules/cjs/loader.js:779:27)
+    at Function.f._load (electron/js2c/asar_bundle.js:5:12684)
+    at Function.s._load (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:106:27816)
+    at Function.S._load (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:106:24532)
+    at Function.a._load (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:96:58822)
+    at Module.require (internal/modules/cjs/loader.js:1006:19)
+    at v (/usr/share/code/resources/app/out/vs/loader.js:4:694)
+    at t.ModuleResolver.loadNodeModule (/root/.vscode/extensions/esbenp.prettier-vscode-6.3.2/src/ModuleResolver.ts:339:9)
+    at t.ModuleResolver.<anonymous> (/root/.vscode/extensions/esbenp.prettier-vscode-6.3.2/src/ModuleResolver.ts:225:11)
+    at Generator.next (<anonymous>)
+    at s (/root/.vscode/extensions/esbenp.prettier-vscode-6.3.2/dist/extension.js:1:2695)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+["ERROR" - 11:57:57 PM] Error loading node module '/var/www/ecommerce/node_modules/prettier/index.js'
+["ERROR" - 11:57:57 PM] Cannot find module '/var/www/ecommerce/node_modules/prettier/index.js'
+Require stack:
+- /root/.vscode/extensions/esbenp.prettier-vscode-6.3.2/dist/extension.js
+- /usr/share/code/resources/app/out/vs/loader.js
+- /usr/share/code/resources/app/out/bootstrap-amd.js
+- /usr/share/code/resources/app/out/bootstrap-fork.js
+Error: Cannot find module '/var/www/ecommerce/node_modules/prettier/index.js'
+Require stack:
+- /root/.vscode/extensions/esbenp.prettier-vscode-6.3.2/dist/extension.js
+- /usr/share/code/resources/app/out/vs/loader.js
+- /usr/share/code/resources/app/out/bootstrap-amd.js
+- /usr/share/code/resources/app/out/bootstrap-fork.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:934:15)
+    at Module._load (internal/modules/cjs/loader.js:779:27)
+    at Function.f._load (electron/js2c/asar_bundle.js:5:12684)
+    at Function.s._load (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:106:27816)
+    at Function.S._load (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:106:24532)
+    at Function.a._load (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:96:58822)
+    at Module.require (internal/modules/cjs/loader.js:1006:19)
+    at v (/usr/share/code/resources/app/out/vs/loader.js:4:694)
+    at t.ModuleResolver.loadNodeModule (/root/.vscode/extensions/esbenp.prettier-vscode-6.3.2/src/ModuleResolver.ts:339:9)
+    at t.ModuleResolver.<anonymous> (/root/.vscode/extensions/esbenp.prettier-vscode-6.3.2/src/ModuleResolver.ts:225:11)
+    at Generator.next (<anonymous>)
+    at s (/root/.vscode/extensions/esbenp.prettier-vscode-6.3.2/dist/extension.js:1:2695)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+["ERROR" - 11:58:03 PM] Error loading node module '/var/www/ecommerce/node_modules/prettier/index.js'
+["ERROR" - 11:58:03 PM] Cannot find module '/var/www/ecommerce/node_modules/prettier/index.js'
+Require stack:
+- /root/.vscode/extensions/esbenp.prettier-vscode-6.3.2/dist/extension.js
+- /usr/share/code/resources/app/out/vs/loader.js
+- /usr/share/code/resources/app/out/bootstrap-amd.js
+- /usr/share/code/resources/app/out/bootstrap-fork.js
+Error: Cannot find module '/var/www/ecommerce/node_modules/prettier/index.js'
+Require stack:
+- /root/.vscode/extensions/esbenp.prettier-vscode-6.3.2/dist/extension.js
+- /usr/share/code/resources/app/out/vs/loader.js
+- /usr/share/code/resources/app/out/bootstrap-amd.js
+- /usr/share/code/resources/app/out/bootstrap-fork.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:934:15)
+    at Module._load (internal/modules/cjs/loader.js:779:27)
+    at Function.f._load (electron/js2c/asar_bundle.js:5:12684)
+    at Function.s._load (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:106:27816)
+    at Function.S._load (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:106:24532)
+    at Function.a._load (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:96:58822)
+    at Module.require (internal/modules/cjs/loader.js:1006:19)
+    at v (/usr/share/code/resources/app/out/vs/loader.js:4:694)
+    at t.ModuleResolver.loadNodeModule (/root/.vscode/extensions/esbenp.prettier-vscode-6.3.2/src/ModuleResolver.ts:339:9)
+    at t.ModuleResolver.<anonymous> (/root/.vscode/extensions/esbenp.prettier-vscode-6.3.2/src/ModuleResolver.ts:225:11)
+    at Generator.next (<anonymous>)
+    at s (/root/.vscode/extensions/esbenp.prettier-vscode-6.3.2/dist/extension.js:1:2695)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+["ERROR" - 11:58:06 PM] Error loading node module '/var/www/ecommerce/node_modules/prettier/index.js'
+["ERROR" - 11:58:06 PM] Cannot find module '/var/www/ecommerce/node_modules/prettier/index.js'
+Require stack:
+- /root/.vscode/extensions/esbenp.prettier-vscode-6.3.2/dist/extension.js
+- /usr/share/code/resources/app/out/vs/loader.js
+- /usr/share/code/resources/app/out/bootstrap-amd.js
+- /usr/share/code/resources/app/out/bootstrap-fork.js
+Error: Cannot find module '/var/www/ecommerce/node_modules/prettier/index.js'
+Require stack:
+- /root/.vscode/extensions/esbenp.prettier-vscode-6.3.2/dist/extension.js
+- /usr/share/code/resources/app/out/vs/loader.js
+- /usr/share/code/resources/app/out/bootstrap-amd.js
+- /usr/share/code/resources/app/out/bootstrap-fork.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:934:15)
+    at Module._load (internal/modules/cjs/loader.js:779:27)
+    at Function.f._load (electron/js2c/asar_bundle.js:5:12684)
+    at Function.s._load (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:106:27816)
+    at Function.S._load (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:106:24532)
+    at Function.a._load (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:96:58822)
+    at Module.require (internal/modules/cjs/loader.js:1006:19)
+    at v (/usr/share/code/resources/app/out/vs/loader.js:4:694)
+    at t.ModuleResolver.loadNodeModule (/root/.vscode/extensions/esbenp.prettier-vscode-6.3.2/src/ModuleResolver.ts:339:9)
+    at t.ModuleResolver.<anonymous> (/root/.vscode/extensions/esbenp.prettier-vscode-6.3.2/src/ModuleResolver.ts:225:11)
+    at Generator.next (<anonymous>)
+    at s (/root/.vscode/extensions/esbenp.prettier-vscode-6.3.2/dist/extension.js:1:2695)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+["ERROR" - 12:00:53 AM] Error loading node module '/var/www/ecommerce/node_modules/prettier/index.js'
+["ERROR" - 12:00:53 AM] Cannot find module '/var/www/ecommerce/node_modules/prettier/index.js'
+Require stack:
+- /root/.vscode/extensions/esbenp.prettier-vscode-6.3.2/dist/extension.js
+- /usr/share/code/resources/app/out/vs/loader.js
+- /usr/share/code/resources/app/out/bootstrap-amd.js
+- /usr/share/code/resources/app/out/bootstrap-fork.js
+Error: Cannot find module '/var/www/ecommerce/node_modules/prettier/index.js'
+Require stack:
+- /root/.vscode/extensions/esbenp.prettier-vscode-6.3.2/dist/extension.js
+- /usr/share/code/resources/app/out/vs/loader.js
+- /usr/share/code/resources/app/out/bootstrap-amd.js
+- /usr/share/code/resources/app/out/bootstrap-fork.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:934:15)
+    at Module._load (internal/modules/cjs/loader.js:779:27)
+    at Function.f._load (electron/js2c/asar_bundle.js:5:12684)
+    at Function.s._load (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:106:27816)
+    at Function.S._load (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:106:24532)
+    at Function.a._load (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:96:58822)
+    at Module.require (internal/modules/cjs/loader.js:1006:19)
+    at v (/usr/share/code/resources/app/out/vs/loader.js:4:694)
+    at t.ModuleResolver.loadNodeModule (/root/.vscode/extensions/esbenp.prettier-vscode-6.3.2/src/ModuleResolver.ts:339:9)
+    at t.ModuleResolver.<anonymous> (/root/.vscode/extensions/esbenp.prettier-vscode-6.3.2/src/ModuleResolver.ts:225:11)
+    at Generator.next (<anonymous>)
+    at s (/root/.vscode/extensions/esbenp.prettier-vscode-6.3.2/dist/extension.js:1:2695)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+["ERROR" - 12:07:33 AM] Error loading node module '/var/www/ecommerce/node_modules/prettier/index.js'
+["ERROR" - 12:07:33 AM] Cannot find module '/var/www/ecommerce/node_modules/prettier/index.js'
+Require stack:
+- /root/.vscode/extensions/esbenp.prettier-vscode-6.3.2/dist/extension.js
+- /usr/share/code/resources/app/out/vs/loader.js
+- /usr/share/code/resources/app/out/bootstrap-amd.js
+- /usr/share/code/resources/app/out/bootstrap-fork.js
+Error: Cannot find module '/var/www/ecommerce/node_modules/prettier/index.js'
+Require stack:
+- /root/.vscode/extensions/esbenp.prettier-vscode-6.3.2/dist/extension.js
+- /usr/share/code/resources/app/out/vs/loader.js
+- /usr/share/code/resources/app/out/bootstrap-amd.js
+- /usr/share/code/resources/app/out/bootstrap-fork.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:934:15)
+    at Module._load (internal/modules/cjs/loader.js:779:27)
+    at Function.f._load (electron/js2c/asar_bundle.js:5:12684)
+    at Function.s._load (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:106:27816)
+    at Function.S._load (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:106:24532)
+    at Function.a._load (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:96:58822)
+    at Module.require (internal/modules/cjs/loader.js:1006:19)
+    at v (/usr/share/code/resources/app/out/vs/loader.js:4:694)
+    at t.ModuleResolver.loadNodeModule (/root/.vscode/extensions/esbenp.prettier-vscode-6.3.2/src/ModuleResolver.ts:339:9)
+    at t.ModuleResolver.<anonymous> (/root/.vscode/extensions/esbenp.prettier-vscode-6.3.2/src/ModuleResolver.ts:225:11)
+    at Generator.next (<anonymous>)
+    at s (/root/.vscode/extensions/esbenp.prettier-vscode-6.3.2/dist/extension.js:1:2695)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+["ERROR" - 3:44:57 AM] Error loading node module '/var/www/ecommerce/node_modules/prettier/index.js'
+["ERROR" - 3:44:57 AM] Cannot find module '/var/www/ecommerce/node_modules/prettier/index.js'
+Require stack:
+- /root/.vscode/extensions/esbenp.prettier-vscode-6.3.2/dist/extension.js
+- /usr/share/code/resources/app/out/vs/loader.js
+- /usr/share/code/resources/app/out/bootstrap-amd.js
+- /usr/share/code/resources/app/out/bootstrap-fork.js
+Error: Cannot find module '/var/www/ecommerce/node_modules/prettier/index.js'
+Require stack:
+- /root/.vscode/extensions/esbenp.prettier-vscode-6.3.2/dist/extension.js
+- /usr/share/code/resources/app/out/vs/loader.js
+- /usr/share/code/resources/app/out/bootstrap-amd.js
+- /usr/share/code/resources/app/out/bootstrap-fork.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:934:15)
+    at Module._load (internal/modules/cjs/loader.js:779:27)
+    at Function.f._load (electron/js2c/asar_bundle.js:5:12684)
+    at Function.s._load (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:106:27816)
+    at Function.S._load (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:106:24532)
+    at Function.a._load (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:96:58822)
+    at Module.require (internal/modules/cjs/loader.js:1006:19)
+    at v (/usr/share/code/resources/app/out/vs/loader.js:4:694)
+    at t.ModuleResolver.loadNodeModule (/root/.vscode/extensions/esbenp.prettier-vscode-6.3.2/src/ModuleResolver.ts:339:9)
+    at t.ModuleResolver.<anonymous> (/root/.vscode/extensions/esbenp.prettier-vscode-6.3.2/src/ModuleResolver.ts:225:11)
+    at Generator.next (<anonymous>)
+    at s (/root/.vscode/extensions/esbenp.prettier-vscode-6.3.2/dist/extension.js:1:2695)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+["ERROR" - 3:45:05 AM] Error loading node module '/var/www/ecommerce/node_modules/prettier/index.js'
+["ERROR" - 3:45:05 AM] Cannot find module '/var/www/ecommerce/node_modules/prettier/index.js'
+Require stack:
+- /root/.vscode/extensions/esbenp.prettier-vscode-6.3.2/dist/extension.js
+- /usr/share/code/resources/app/out/vs/loader.js
+- /usr/share/code/resources/app/out/bootstrap-amd.js
+- /usr/share/code/resources/app/out/bootstrap-fork.js
+Error: Cannot find module '/var/www/ecommerce/node_modules/prettier/index.js'
+Require stack:
+- /root/.vscode/extensions/esbenp.prettier-vscode-6.3.2/dist/extension.js
+- /usr/share/code/resources/app/out/vs/loader.js
+- /usr/share/code/resources/app/out/bootstrap-amd.js
+- /usr/share/code/resources/app/out/bootstrap-fork.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:934:15)
+    at Module._load (internal/modules/cjs/loader.js:779:27)
+    at Function.f._load (electron/js2c/asar_bundle.js:5:12684)
+    at Function.s._load (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:106:27816)
+    at Function.S._load (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:106:24532)
+    at Function.a._load (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:96:58822)
+    at Module.require (internal/modules/cjs/loader.js:1006:19)
+    at v (/usr/share/code/resources/app/out/vs/loader.js:4:694)
+    at t.ModuleResolver.loadNodeModule (/root/.vscode/extensions/esbenp.prettier-vscode-6.3.2/src/ModuleResolver.ts:339:9)
+    at t.ModuleResolver.<anonymous> (/root/.vscode/extensions/esbenp.prettier-vscode-6.3.2/src/ModuleResolver.ts:225:11)
+    at Generator.next (<anonymous>)
+    at s (/root/.vscode/extensions/esbenp.prettier-vscode-6.3.2/dist/extension.js:1:2695)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+["ERROR" - 3:45:45 AM] Error loading node module '/var/www/ecommerce/node_modules/prettier/index.js'
+["ERROR" - 3:45:45 AM] Cannot find module '/var/www/ecommerce/node_modules/prettier/index.js'
+Require stack:
+- /root/.vscode/extensions/esbenp.prettier-vscode-6.3.2/dist/extension.js
+- /usr/share/code/resources/app/out/vs/loader.js
+- /usr/share/code/resources/app/out/bootstrap-amd.js
+- /usr/share/code/resources/app/out/bootstrap-fork.js
+Error: Cannot find module '/var/www/ecommerce/node_modules/prettier/index.js'
+Require stack:
+- /root/.vscode/extensions/esbenp.prettier-vscode-6.3.2/dist/extension.js
+- /usr/share/code/resources/app/out/vs/loader.js
+- /usr/share/code/resources/app/out/bootstrap-amd.js
+- /usr/share/code/resources/app/out/bootstrap-fork.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:934:15)
+    at Module._load (internal/modules/cjs/loader.js:779:27)
+    at Function.f._load (electron/js2c/asar_bundle.js:5:12684)
+    at Function.s._load (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:106:27816)
+    at Function.S._load (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:106:24532)
+    at Function.a._load (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:96:58822)
+    at Module.require (internal/modules/cjs/loader.js:1006:19)
+    at v (/usr/share/code/resources/app/out/vs/loader.js:4:694)
+    at t.ModuleResolver.loadNodeModule (/root/.vscode/extensions/esbenp.prettier-vscode-6.3.2/src/ModuleResolver.ts:339:9)
+    at t.ModuleResolver.<anonymous> (/root/.vscode/extensions/esbenp.prettier-vscode-6.3.2/src/ModuleResolver.ts:225:11)
+    at Generator.next (<anonymous>)
+    at s (/root/.vscode/extensions/esbenp.prettier-vscode-6.3.2/dist/extension.js:1:2695)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+["ERROR" - 3:45:50 AM] Error loading node module '/var/www/ecommerce/node_modules/prettier/index.js'
+["ERROR" - 3:45:50 AM] Cannot find module '/var/www/ecommerce/node_modules/prettier/index.js'
+Require stack:
+- /root/.vscode/extensions/esbenp.prettier-vscode-6.3.2/dist/extension.js
+- /usr/share/code/resources/app/out/vs/loader.js
+- /usr/share/code/resources/app/out/bootstrap-amd.js
+- /usr/share/code/resources/app/out/bootstrap-fork.js
+Error: Cannot find module '/var/www/ecommerce/node_modules/prettier/index.js'
+Require stack:
+- /root/.vscode/extensions/esbenp.prettier-vscode-6.3.2/dist/extension.js
+- /usr/share/code/resources/app/out/vs/loader.js
+- /usr/share/code/resources/app/out/bootstrap-amd.js
+- /usr/share/code/resources/app/out/bootstrap-fork.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:934:15)
+    at Module._load (internal/modules/cjs/loader.js:779:27)
+    at Function.f._load (electron/js2c/asar_bundle.js:5:12684)
+    at Function.s._load (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:106:27816)
+    at Function.S._load (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:106:24532)
+    at Function.a._load (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:96:58822)
+    at Module.require (internal/modules/cjs/loader.js:1006:19)
+    at v (/usr/share/code/resources/app/out/vs/loader.js:4:694)
+    at t.ModuleResolver.loadNodeModule (/root/.vscode/extensions/esbenp.prettier-vscode-6.3.2/src/ModuleResolver.ts:339:9)
+    at t.ModuleResolver.<anonymous> (/root/.vscode/extensions/esbenp.prettier-vscode-6.3.2/src/ModuleResolver.ts:225:11)
+    at Generator.next (<anonymous>)
+    at s (/root/.vscode/extensions/esbenp.prettier-vscode-6.3.2/dist/extension.js:1:2695)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+["ERROR" - 3:45:50 AM] Error loading node module '/var/www/ecommerce/node_modules/prettier/index.js'
+["ERROR" - 3:45:50 AM] Cannot find module '/var/www/ecommerce/node_modules/prettier/index.js'
+Require stack:
+- /root/.vscode/extensions/esbenp.prettier-vscode-6.3.2/dist/extension.js
+- /usr/share/code/resources/app/out/vs/loader.js
+- /usr/share/code/resources/app/out/bootstrap-amd.js
+- /usr/share/code/resources/app/out/bootstrap-fork.js
+Error: Cannot find module '/var/www/ecommerce/node_modules/prettier/index.js'
+Require stack:
+- /root/.vscode/extensions/esbenp.prettier-vscode-6.3.2/dist/extension.js
+- /usr/share/code/resources/app/out/vs/loader.js
+- /usr/share/code/resources/app/out/bootstrap-amd.js
+- /usr/share/code/resources/app/out/bootstrap-fork.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:934:15)
+    at Module._load (internal/modules/cjs/loader.js:779:27)
+    at Function.f._load (electron/js2c/asar_bundle.js:5:12684)
+    at Function.s._load (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:106:27816)
+    at Function.S._load (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:106:24532)
+    at Function.a._load (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:96:58822)
+    at Module.require (internal/modules/cjs/loader.js:1006:19)
+    at v (/usr/share/code/resources/app/out/vs/loader.js:4:694)
+    at t.ModuleResolver.loadNodeModule (/root/.vscode/extensions/esbenp.prettier-vscode-6.3.2/src/ModuleResolver.ts:339:9)
+    at t.ModuleResolver.<anonymous> (/root/.vscode/extensions/esbenp.prettier-vscode-6.3.2/src/ModuleResolver.ts:225:11)
+    at Generator.next (<anonymous>)
+    at s (/root/.vscode/extensions/esbenp.prettier-vscode-6.3.2/dist/extension.js:1:2695)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+["ERROR" - 3:45:50 AM] Error loading node module '/var/www/ecommerce/node_modules/prettier/index.js'
+["ERROR" - 3:45:50 AM] Cannot find module '/var/www/ecommerce/node_modules/prettier/index.js'
+Require stack:
+- /root/.vscode/extensions/esbenp.prettier-vscode-6.3.2/dist/extension.js
+- /usr/share/code/resources/app/out/vs/loader.js
+- /usr/share/code/resources/app/out/bootstrap-amd.js
+- /usr/share/code/resources/app/out/bootstrap-fork.js
+Error: Cannot find module '/var/www/ecommerce/node_modules/prettier/index.js'
+Require stack:
+- /root/.vscode/extensions/esbenp.prettier-vscode-6.3.2/dist/extension.js
+- /usr/share/code/resources/app/out/vs/loader.js
+- /usr/share/code/resources/app/out/bootstrap-amd.js
+- /usr/share/code/resources/app/out/bootstrap-fork.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:934:15)
+    at Module._load (internal/modules/cjs/loader.js:779:27)
+    at Function.f._load (electron/js2c/asar_bundle.js:5:12684)
+    at Function.s._load (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:106:27816)
+    at Function.S._load (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:106:24532)
+    at Function.a._load (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:96:58822)
+    at Module.require (internal/modules/cjs/loader.js:1006:19)
+    at v (/usr/share/code/resources/app/out/vs/loader.js:4:694)
+    at t.ModuleResolver.loadNodeModule (/root/.vscode/extensions/esbenp.prettier-vscode-6.3.2/src/ModuleResolver.ts:339:9)
+    at t.ModuleResolver.<anonymous> (/root/.vscode/extensions/esbenp.prettier-vscode-6.3.2/src/ModuleResolver.ts:225:11)
+    at Generator.next (<anonymous>)
+    at s (/root/.vscode/extensions/esbenp.prettier-vscode-6.3.2/dist/extension.js:1:2695)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+["ERROR" - 3:45:58 AM] Error loading node module '/var/www/ecommerce/node_modules/prettier/index.js'
+["ERROR" - 3:45:58 AM] Cannot find module '/var/www/ecommerce/node_modules/prettier/index.js'
+Require stack:
+- /root/.vscode/extensions/esbenp.prettier-vscode-6.3.2/dist/extension.js
+- /usr/share/code/resources/app/out/vs/loader.js
+- /usr/share/code/resources/app/out/bootstrap-amd.js
+- /usr/share/code/resources/app/out/bootstrap-fork.js
+Error: Cannot find module '/var/www/ecommerce/node_modules/prettier/index.js'
+Require stack:
+- /root/.vscode/extensions/esbenp.prettier-vscode-6.3.2/dist/extension.js
+- /usr/share/code/resources/app/out/vs/loader.js
+- /usr/share/code/resources/app/out/bootstrap-amd.js
+- /usr/share/code/resources/app/out/bootstrap-fork.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:934:15)
+    at Module._load (internal/modules/cjs/loader.js:779:27)
+    at Function.f._load (electron/js2c/asar_bundle.js:5:12684)
+    at Function.s._load (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:106:27816)
+    at Function.S._load (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:106:24532)
+    at Function.a._load (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:96:58822)
+    at Module.require (internal/modules/cjs/loader.js:1006:19)
+    at v (/usr/share/code/resources/app/out/vs/loader.js:4:694)
+    at t.ModuleResolver.loadNodeModule (/root/.vscode/extensions/esbenp.prettier-vscode-6.3.2/src/ModuleResolver.ts:339:9)
+    at t.ModuleResolver.<anonymous> (/root/.vscode/extensions/esbenp.prettier-vscode-6.3.2/src/ModuleResolver.ts:225:11)
+    at Generator.next (<anonymous>)
+    at s (/root/.vscode/extensions/esbenp.prettier-vscode-6.3.2/dist/extension.js:1:2695)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+["ERROR" - 3:46:04 AM] Error loading node module '/var/www/ecommerce/node_modules/prettier/index.js'
+["ERROR" - 3:46:04 AM] Cannot find module '/var/www/ecommerce/node_modules/prettier/index.js'
+Require stack:
+- /root/.vscode/extensions/esbenp.prettier-vscode-6.3.2/dist/extension.js
+- /usr/share/code/resources/app/out/vs/loader.js
+- /usr/share/code/resources/app/out/bootstrap-amd.js
+- /usr/share/code/resources/app/out/bootstrap-fork.js
+Error: Cannot find module '/var/www/ecommerce/node_modules/prettier/index.js'
+Require stack:
+- /root/.vscode/extensions/esbenp.prettier-vscode-6.3.2/dist/extension.js
+- /usr/share/code/resources/app/out/vs/loader.js
+- /usr/share/code/resources/app/out/bootstrap-amd.js
+- /usr/share/code/resources/app/out/bootstrap-fork.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:934:15)
+    at Module._load (internal/modules/cjs/loader.js:779:27)
+    at Function.f._load (electron/js2c/asar_bundle.js:5:12684)
+    at Function.s._load (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:106:27816)
+    at Function.S._load (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:106:24532)
+    at Function.a._load (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:96:58822)
+    at Module.require (internal/modules/cjs/loader.js:1006:19)
+    at v (/usr/share/code/resources/app/out/vs/loader.js:4:694)
+    at t.ModuleResolver.loadNodeModule (/root/.vscode/extensions/esbenp.prettier-vscode-6.3.2/src/ModuleResolver.ts:339:9)
+    at t.ModuleResolver.<anonymous> (/root/.vscode/extensions/esbenp.prettier-vscode-6.3.2/src/ModuleResolver.ts:225:11)
+    at Generator.next (<anonymous>)
+    at s (/root/.vscode/extensions/esbenp.prettier-vscode-6.3.2/dist/extension.js:1:2695)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+["ERROR" - 3:46:27 AM] Error loading node module '/var/www/ecommerce/node_modules/prettier/index.js'
+["ERROR" - 3:46:27 AM] Cannot find module '/var/www/ecommerce/node_modules/prettier/index.js'
+Require stack:
+- /root/.vscode/extensions/esbenp.prettier-vscode-6.3.2/dist/extension.js
+- /usr/share/code/resources/app/out/vs/loader.js
+- /usr/share/code/resources/app/out/bootstrap-amd.js
+- /usr/share/code/resources/app/out/bootstrap-fork.js
+Error: Cannot find module '/var/www/ecommerce/node_modules/prettier/index.js'
+Require stack:
+- /root/.vscode/extensions/esbenp.prettier-vscode-6.3.2/dist/extension.js
+- /usr/share/code/resources/app/out/vs/loader.js
+- /usr/share/code/resources/app/out/bootstrap-amd.js
+- /usr/share/code/resources/app/out/bootstrap-fork.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:934:15)
+    at Module._load (internal/modules/cjs/loader.js:779:27)
+    at Function.f._load (electron/js2c/asar_bundle.js:5:12684)
+    at Function.s._load (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:106:27816)
+    at Function.S._load (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:106:24532)
+    at Function.a._load (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:96:58822)
+    at Module.require (internal/modules/cjs/loader.js:1006:19)
+    at v (/usr/share/code/resources/app/out/vs/loader.js:4:694)
+    at t.ModuleResolver.loadNodeModule (/root/.vscode/extensions/esbenp.prettier-vscode-6.3.2/src/ModuleResolver.ts:339:9)
+    at t.ModuleResolver.<anonymous> (/root/.vscode/extensions/esbenp.prettier-vscode-6.3.2/src/ModuleResolver.ts:225:11)
+    at Generator.next (<anonymous>)
+    at s (/root/.vscode/extensions/esbenp.prettier-vscode-6.3.2/dist/extension.js:1:2695)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+["ERROR" - 3:51:41 AM] Error loading node module '/var/www/ecommerce/node_modules/prettier/index.js'
+["ERROR" - 3:51:41 AM] Cannot find module '/var/www/ecommerce/node_modules/prettier/index.js'
+Require stack:
+- /root/.vscode/extensions/esbenp.prettier-vscode-6.3.2/dist/extension.js
+- /usr/share/code/resources/app/out/vs/loader.js
+- /usr/share/code/resources/app/out/bootstrap-amd.js
+- /usr/share/code/resources/app/out/bootstrap-fork.js
+Error: Cannot find module '/var/www/ecommerce/node_modules/prettier/index.js'
+Require stack:
+- /root/.vscode/extensions/esbenp.prettier-vscode-6.3.2/dist/extension.js
+- /usr/share/code/resources/app/out/vs/loader.js
+- /usr/share/code/resources/app/out/bootstrap-amd.js
+- /usr/share/code/resources/app/out/bootstrap-fork.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:934:15)
+    at Module._load (internal/modules/cjs/loader.js:779:27)
+    at Function.f._load (electron/js2c/asar_bundle.js:5:12684)
+    at Function.s._load (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:106:27816)
+    at Function.S._load (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:106:24532)
+    at Function.a._load (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:96:58822)
+    at Module.require (internal/modules/cjs/loader.js:1006:19)
+    at v (/usr/share/code/resources/app/out/vs/loader.js:4:694)
+    at t.ModuleResolver.loadNodeModule (/root/.vscode/extensions/esbenp.prettier-vscode-6.3.2/src/ModuleResolver.ts:339:9)
+    at t.ModuleResolver.<anonymous> (/root/.vscode/extensions/esbenp.prettier-vscode-6.3.2/src/ModuleResolver.ts:225:11)
+    at Generator.next (<anonymous>)
+    at s (/root/.vscode/extensions/esbenp.prettier-vscode-6.3.2/dist/extension.js:1:2695)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+["ERROR" - 3:54:46 AM] Error loading node module '/var/www/ecommerce/node_modules/prettier/index.js'
+["ERROR" - 3:54:46 AM] Cannot find module '/var/www/ecommerce/node_modules/prettier/index.js'
+Require stack:
+- /root/.vscode/extensions/esbenp.prettier-vscode-6.3.2/dist/extension.js
+- /usr/share/code/resources/app/out/vs/loader.js
+- /usr/share/code/resources/app/out/bootstrap-amd.js
+- /usr/share/code/resources/app/out/bootstrap-fork.js
+Error: Cannot find module '/var/www/ecommerce/node_modules/prettier/index.js'
+Require stack:
+- /root/.vscode/extensions/esbenp.prettier-vscode-6.3.2/dist/extension.js
+- /usr/share/code/resources/app/out/vs/loader.js
+- /usr/share/code/resources/app/out/bootstrap-amd.js
+- /usr/share/code/resources/app/out/bootstrap-fork.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:934:15)
+    at Module._load (internal/modules/cjs/loader.js:779:27)
+    at Function.f._load (electron/js2c/asar_bundle.js:5:12684)
+    at Function.s._load (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:106:27816)
+    at Function.S._load (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:106:24532)
+    at Function.a._load (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:96:58822)
+    at Module.require (internal/modules/cjs/loader.js:1006:19)
+    at v (/usr/share/code/resources/app/out/vs/loader.js:4:694)
+    at t.ModuleResolver.loadNodeModule (/root/.vscode/extensions/esbenp.prettier-vscode-6.3.2/src/ModuleResolver.ts:339:9)
+    at t.ModuleResolver.<anonymous> (/root/.vscode/extensions/esbenp.prettier-vscode-6.3.2/src/ModuleResolver.ts:225:11)
+    at Generator.next (<anonymous>)
+    at s (/root/.vscode/extensions/esbenp.prettier-vscode-6.3.2/dist/extension.js:1:2695)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+["ERROR" - 3:54:56 AM] Error loading node module '/var/www/ecommerce/node_modules/prettier/index.js'
+["ERROR" - 3:54:56 AM] Cannot find module '/var/www/ecommerce/node_modules/prettier/index.js'
+Require stack:
+- /root/.vscode/extensions/esbenp.prettier-vscode-6.3.2/dist/extension.js
+- /usr/share/code/resources/app/out/vs/loader.js
+- /usr/share/code/resources/app/out/bootstrap-amd.js
+- /usr/share/code/resources/app/out/bootstrap-fork.js
+Error: Cannot find module '/var/www/ecommerce/node_modules/prettier/index.js'
+Require stack:
+- /root/.vscode/extensions/esbenp.prettier-vscode-6.3.2/dist/extension.js
+- /usr/share/code/resources/app/out/vs/loader.js
+- /usr/share/code/resources/app/out/bootstrap-amd.js
+- /usr/share/code/resources/app/out/bootstrap-fork.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:934:15)
+    at Module._load (internal/modules/cjs/loader.js:779:27)
+    at Function.f._load (electron/js2c/asar_bundle.js:5:12684)
+    at Function.s._load (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:106:27816)
+    at Function.S._load (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:106:24532)
+    at Function.a._load (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:96:58822)
+    at Module.require (internal/modules/cjs/loader.js:1006:19)
+    at v (/usr/share/code/resources/app/out/vs/loader.js:4:694)
+    at t.ModuleResolver.loadNodeModule (/root/.vscode/extensions/esbenp.prettier-vscode-6.3.2/src/ModuleResolver.ts:339:9)
+    at t.ModuleResolver.<anonymous> (/root/.vscode/extensions/esbenp.prettier-vscode-6.3.2/src/ModuleResolver.ts:225:11)
+    at Generator.next (<anonymous>)
+    at s (/root/.vscode/extensions/esbenp.prettier-vscode-6.3.2/dist/extension.js:1:2695)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+["ERROR" - 3:55:07 AM] Error loading node module '/var/www/ecommerce/node_modules/prettier/index.js'
+["ERROR" - 3:55:07 AM] Cannot find module '/var/www/ecommerce/node_modules/prettier/index.js'
+Require stack:
+- /root/.vscode/extensions/esbenp.prettier-vscode-6.3.2/dist/extension.js
+- /usr/share/code/resources/app/out/vs/loader.js
+- /usr/share/code/resources/app/out/bootstrap-amd.js
+- /usr/share/code/resources/app/out/bootstrap-fork.js
+Error: Cannot find module '/var/www/ecommerce/node_modules/prettier/index.js'
+Require stack:
+- /root/.vscode/extensions/esbenp.prettier-vscode-6.3.2/dist/extension.js
+- /usr/share/code/resources/app/out/vs/loader.js
+- /usr/share/code/resources/app/out/bootstrap-amd.js
+- /usr/share/code/resources/app/out/bootstrap-fork.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:934:15)
+    at Module._load (internal/modules/cjs/loader.js:779:27)
+    at Function.f._load (electron/js2c/asar_bundle.js:5:12684)
+    at Function.s._load (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:106:27816)
+    at Function.S._load (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:106:24532)
+    at Function.a._load (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:96:58822)
+    at Module.require (internal/modules/cjs/loader.js:1006:19)
+    at v (/usr/share/code/resources/app/out/vs/loader.js:4:694)
+    at t.ModuleResolver.loadNodeModule (/root/.vscode/extensions/esbenp.prettier-vscode-6.3.2/src/ModuleResolver.ts:339:9)
+    at t.ModuleResolver.<anonymous> (/root/.vscode/extensions/esbenp.prettier-vscode-6.3.2/src/ModuleResolver.ts:225:11)
+    at Generator.next (<anonymous>)
+    at s (/root/.vscode/extensions/esbenp.prettier-vscode-6.3.2/dist/extension.js:1:2695)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+["ERROR" - 4:06:05 AM] Error loading node module '/var/www/ecommerce/node_modules/prettier/index.js'
+["ERROR" - 4:06:05 AM] Cannot find module '/var/www/ecommerce/node_modules/prettier/index.js'
+Require stack:
+- /root/.vscode/extensions/esbenp.prettier-vscode-6.3.2/dist/extension.js
+- /usr/share/code/resources/app/out/vs/loader.js
+- /usr/share/code/resources/app/out/bootstrap-amd.js
+- /usr/share/code/resources/app/out/bootstrap-fork.js
+Error: Cannot find module '/var/www/ecommerce/node_modules/prettier/index.js'
+Require stack:
+- /root/.vscode/extensions/esbenp.prettier-vscode-6.3.2/dist/extension.js
+- /usr/share/code/resources/app/out/vs/loader.js
+- /usr/share/code/resources/app/out/bootstrap-amd.js
+- /usr/share/code/resources/app/out/bootstrap-fork.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:934:15)
+    at Module._load (internal/modules/cjs/loader.js:779:27)
+    at Function.f._load (electron/js2c/asar_bundle.js:5:12684)
+    at Function.s._load (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:106:27816)
+    at Function.S._load (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:106:24532)
+    at Function.a._load (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:96:58822)
+    at Module.require (internal/modules/cjs/loader.js:1006:19)
+    at v (/usr/share/code/resources/app/out/vs/loader.js:4:694)
+    at t.ModuleResolver.loadNodeModule (/root/.vscode/extensions/esbenp.prettier-vscode-6.3.2/src/ModuleResolver.ts:339:9)
+    at t.ModuleResolver.<anonymous> (/root/.vscode/extensions/esbenp.prettier-vscode-6.3.2/src/ModuleResolver.ts:225:11)
+    at Generator.next (<anonymous>)
+    at s (/root/.vscode/extensions/esbenp.prettier-vscode-6.3.2/dist/extension.js:1:2695)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+["ERROR" - 4:06:34 AM] Error loading node module '/var/www/ecommerce/node_modules/prettier/index.js'
+["ERROR" - 4:06:34 AM] Cannot find module '/var/www/ecommerce/node_modules/prettier/index.js'
+Require stack:
+- /root/.vscode/extensions/esbenp.prettier-vscode-6.3.2/dist/extension.js
+- /usr/share/code/resources/app/out/vs/loader.js
+- /usr/share/code/resources/app/out/bootstrap-amd.js
+- /usr/share/code/resources/app/out/bootstrap-fork.js
+Error: Cannot find module '/var/www/ecommerce/node_modules/prettier/index.js'
+Require stack:
+- /root/.vscode/extensions/esbenp.prettier-vscode-6.3.2/dist/extension.js
+- /usr/share/code/resources/app/out/vs/loader.js
+- /usr/share/code/resources/app/out/bootstrap-amd.js
+- /usr/share/code/resources/app/out/bootstrap-fork.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:934:15)
+    at Module._load (internal/modules/cjs/loader.js:779:27)
+    at Function.f._load (electron/js2c/asar_bundle.js:5:12684)
+    at Function.s._load (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:106:27816)
+    at Function.S._load (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:106:24532)
+    at Function.a._load (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:96:58822)
+    at Module.require (internal/modules/cjs/loader.js:1006:19)
+    at v (/usr/share/code/resources/app/out/vs/loader.js:4:694)
+    at t.ModuleResolver.loadNodeModule (/root/.vscode/extensions/esbenp.prettier-vscode-6.3.2/src/ModuleResolver.ts:339:9)
+    at t.ModuleResolver.<anonymous> (/root/.vscode/extensions/esbenp.prettier-vscode-6.3.2/src/ModuleResolver.ts:225:11)
+    at Generator.next (<anonymous>)
+    at s (/root/.vscode/extensions/esbenp.prettier-vscode-6.3.2/dist/extension.js:1:2695)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)

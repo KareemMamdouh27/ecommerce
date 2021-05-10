@@ -41,8 +41,7 @@
                             "items": [
                                 {
                                     "id": "workbench.action.reopenClosedEditor",
-                                    "label": "&&Reopen Closed Editor",
-                                    "enabled": false
+                                    "label": "&&Reopen Closed Editor"
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
@@ -1468,10 +1467,10 @@
             "backupPath": "/var/www/ecommerce/~/.vscode-root/Backups/87439c2288cb1ab3ac5bbb2d53060c5b",
             "uiState": {
                 "mode": 1,
-                "x": 775,
-                "y": 253,
-                "width": 1024,
-                "height": 768
+                "x": 454,
+                "y": 180,
+                "width": 1352,
+                "height": 799
             }
         },
         "openedWindows": []
