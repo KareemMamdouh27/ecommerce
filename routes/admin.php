@@ -13,9 +13,12 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
-Route::get('/admin', function () {
-    return view('admin.dashboard');
+Route::group(['namespace' => 'Admin', 'middleware' => 'auth:admin'], function () {
+    Route::get('/', 'DashboardController@index');
 });
+
+
+
 
 Auth::routes();
 

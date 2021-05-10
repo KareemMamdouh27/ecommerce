@@ -1,1 +1,13 @@
 [2021-05-09 22:28:29.192] [sharedprocess] [info] Starting to clean up unused language packs.
+[2021-05-10 04:54:38.916] [sharedprocess] [info] Installing extension: onecentlin.laravel-blade
+[2021-05-10 04:54:42.107] [sharedprocess] [info] Downloaded extension: onecentlin.laravel-blade /var/www/ecommerce/~/.vscode-root/CachedExtensionVSIXs/onecentlin.laravel-blade-1.25.0
+[2021-05-10 04:54:44.833] [sharedprocess] [info] Extracted extension to /root/.vscode/extensions/.06845cf9-e18a-4855-9b12-213612f13e72: onecentlin.laravel-blade
+[2021-05-10 04:54:44.987] [sharedprocess] [info] Renamed to /root/.vscode/extensions/onecentlin.laravel-blade-1.25.0
+[2021-05-10 04:54:44.992] [sharedprocess] [info] Installation completed. onecentlin.laravel-blade
+[2021-05-10 04:54:45.063] [sharedprocess] [info] Extensions installed successfully: onecentlin.laravel-blade
+[2021-05-10 04:54:54.199] [sharedprocess] [info] Installing extension: onecentlin.laravel5-snippets
+[2021-05-10 04:54:55.079] [sharedprocess] [info] Downloaded extension: onecentlin.laravel5-snippets /var/www/ecommerce/~/.vscode-root/CachedExtensionVSIXs/onecentlin.laravel5-snippets-1.12.0
+[2021-05-10 04:54:55.220] [sharedprocess] [info] Extracted extension to /root/.vscode/extensions/.ca880c60-f7eb-4bc3-9379-7a59654c61a6: onecentlin.laravel5-snippets
+[2021-05-10 04:54:55.282] [sharedprocess] [info] Renamed to /root/.vscode/extensions/onecentlin.laravel5-snippets-1.12.0
+[2021-05-10 04:54:55.286] [sharedprocess] [info] Installation completed. onecentlin.laravel5-snippets
+[2021-05-10 04:54:55.344] [sharedprocess] [info] Extensions installed successfully: onecentlin.laravel5-snippets

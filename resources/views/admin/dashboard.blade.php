@@ -1,4 +1,6 @@
 @extends('layouts.admin')
+{{-- @section('title','dashboard') --}}
+
 
 @section('content')
     <div class="app-content content">
